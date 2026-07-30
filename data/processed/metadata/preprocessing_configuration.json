@@ -1,0 +1,65 @@
+{
+    "hpo_vocabulary_size": 320,
+    "vocabulary_checksum": "64e22868a310f6787fb2b82ddcc6131e75384197c47b40d648ede34941f539b2",
+    "sex_encoder": {
+        "mapping": {
+            "MALE": 0,
+            "FEMALE": 1,
+            "UNKNOWN_SEX": 2
+        },
+        "one_hot_columns": [
+            "sex_MALE",
+            "sex_FEMALE",
+            "sex_UNKNOWN_SEX"
+        ]
+    },
+    "configs": {
+        "CONFIG_A": {
+            "name": "HPO Features Only",
+            "dimensions": 320
+        },
+        "CONFIG_B": {
+            "name": "HPO Features + Sex",
+            "dimensions": 323
+        }
+    },
+    "unseen_hpo_terms": {
+        "validation_count": 0,
+        "test_count": 5
+    },
+    "shapes": {
+        "CONFIG_A": {
+            "X_train": [
+                420,
+                320
+            ],
+            "X_val": [
+                90,
+                320
+            ],
+            "X_test": [
+                90,
+                320
+            ]
+        },
+        "CONFIG_B": {
+            "X_train": [
+                420,
+                323
+            ],
+            "X_val": [
+                90,
+                323
+            ],
+            "X_test": [
+                90,
+                323
+            ]
+        },
+        "targets": {
+            "y_train": 420,
+            "y_val": 90,
+            "y_test": 90
+        }
+    }
+}
