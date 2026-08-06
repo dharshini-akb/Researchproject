@@ -8,10 +8,12 @@ import cv2
 from PIL import Image
 from config import system_config
 from components import cards
+import torch
 from preprocessing import data_loader
 from models.random_forest import RandomForestModel
 from models.tabnet import TabNetModel
 from utils import ocr_helper
+from training.train_ocr import CRNN, CHARSET, IDX_TO_CHAR, IMG_WIDTH, IMG_HEIGHT
 
 # Ensure stdout/stderr uses UTF-8 encoding on Windows to prevent charmap encoding errors
 if sys.platform.startswith("win"):
@@ -105,6 +107,36 @@ with col_config:
         help="Minimum confidence value required to confirm a positive genetic syndromic match.",
         key="img_conf_threshold"
     )
+    
+    st.markdown("---")
+    st.markdown("### 🔍 OCR Engine")
+    ocr_engine = st.selectbox(
+        "Select OCR Model:",
+        ["Default EasyOCR", "Fine-tuned Custom OCR Model"],
+        key="ocr_engine_select"
+    )
+    
+    # Display CER/WER comparison metrics if available
+    metrics_path = os.path.join(system_config.WORKSPACE_DIR, "reports", "ocr_evaluation_metrics.json")
+    if os.path.exists(metrics_path):
+        with open(metrics_path, "r") as f:
+            ocr_metrics = json.load(f)
+        
+        st.markdown("**Test Set Error Metrics:**")
+        if ocr_engine == "Default EasyOCR":
+            st.metric("Baseline CER", f"{ocr_metrics['baseline_easyocr']['cer']:.2%}")
+            st.metric("Baseline WER", f"{ocr_metrics['baseline_easyocr']['wer']:.2%}")
+        else:
+            st.metric("Custom Model CER", f"{ocr_metrics['custom_ocr']['cer']:.2%}")
+            st.metric("Custom Model WER", f"{ocr_metrics['custom_ocr']['wer']:.2%}")
+            
+        # Display audit stats
+        audit_path = os.path.join(system_config.WORKSPACE_DIR, "reports", "pipeline_error_audit.json")
+        if os.path.exists(audit_path):
+            with open(audit_path, "r") as f:
+                audit_data = json.load(f)
+            st.markdown("**Error Attribution Audit:**")
+            st.info(f"HPO Dictionary Gaps: {audit_data['summary']['hpo_dictionary_mapping_errors']}\n\nOCR Typo Induced: {audit_data['summary']['ocr_induced_mapping_errors']}")
 
 with col_main:
     st.markdown("### 📤 Upload Patient Record Image")
@@ -153,9 +185,69 @@ with col_main:
                         reader = ocr_helper.get_ocr_reader()
                         ocr_results = reader.readtext(img_np)
                         
-                        raw_text = "\n".join([res[1] for res in ocr_results])
-                        confidences = [res[2] for res in ocr_results]
-                        avg_conf = np.mean(confidences) if confidences else 0.0
+                        selected_engine = st.session_state.get("ocr_engine_select", "Default EasyOCR")
+                        if selected_engine == "Fine-tuned Custom OCR Model":
+                            # Load custom OCR model
+                            custom_model = CRNN()
+                            model_path = os.path.join(system_config.WORKSPACE_DIR, "models", "custom_ocr", "best_ocr_model.pt")
+                            model_loaded = False
+                            if os.path.exists(model_path):
+                                try:
+                                    custom_model.load_state_dict(torch.load(model_path))
+                                    custom_model.eval()
+                                    model_loaded = True
+                                except Exception:
+                                    pass
+                            
+                            words_list = []
+                            confidences = []
+                            for bbox, text, conf in ocr_results:
+                                if model_loaded:
+                                    try:
+                                        # Convert coordinates
+                                        xs = [pt[0] for pt in bbox]
+                                        ys = [pt[1] for pt in bbox]
+                                        x0, x1 = int(min(xs)), int(max(xs))
+                                        y0, y1 = int(min(ys)), int(max(ys))
+                                        
+                                        # Crop from grayscale image
+                                        gray_img = cv2.cvtColor(img_np, cv2.COLOR_RGB2GRAY)
+                                        crop = gray_img[max(0, y0):min(gray_img.shape[0], y1), max(0, x0):min(gray_img.shape[1], x1)]
+                                        
+                                        # Resize and predict using our fine-tuned CRNN
+                                        from PIL import Image
+                                        crop_pil = Image.fromarray(crop).resize((IMG_WIDTH, IMG_HEIGHT))
+                                        crop_arr = np.array(crop_pil, dtype=np.float32) / 255.0
+                                        crop_tensor = torch.tensor(np.expand_dims(crop_arr, axis=(0, 1)))
+                                        
+                                        with torch.no_grad():
+                                            outputs = custom_model(crop_tensor)
+                                            outputs = outputs.permute(1, 0, 2)
+                                            pred_indices = torch.argmax(outputs, dim=2)[0]
+                                            decoded = []
+                                            prev = None
+                                            for idx in pred_indices.tolist():
+                                                if idx != 0 and idx != prev:
+                                                    decoded.append(IDX_TO_CHAR.get(idx, ""))
+                                                prev = idx
+                                            pred_word = "".join(decoded).strip()
+                                            if not pred_word:
+                                                pred_word = text
+                                            words_list.append(pred_word)
+                                            confidences.append(conf)
+                                    except Exception:
+                                        words_list.append(text)
+                                        confidences.append(conf)
+                                else:
+                                    words_list.append(text)
+                                    confidences.append(conf)
+                                    
+                            raw_text = "\n".join(words_list)
+                            avg_conf = np.mean(confidences) if confidences else 0.0
+                        else:
+                            raw_text = "\n".join([res[1] for res in ocr_results])
+                            confidences = [res[2] for res in ocr_results]
+                            avg_conf = np.mean(confidences) if confidences else 0.0
                         
                         st.session_state["raw_text"] = raw_text
                         st.session_state["ocr_confidence"] = avg_conf

@@ -1,0 +1,24 @@
+{
+    "summary": {
+        "total_test_phrases": 10,
+        "clean_text_mapping_accuracy": 1.0,
+        "noisy_text_mapping_accuracy": 0.8,
+        "hpo_dictionary_mapping_errors": 0,
+        "ocr_induced_mapping_errors": 2
+    },
+    "clean_failed_cases": [],
+    "noisy_failed_cases": [
+        {
+            "clean_phrase": "delayed speech",
+            "noisy_phrase": "idelayed spech",
+            "expected_hpo": "HP:0000750",
+            "detected": []
+        },
+        {
+            "clean_phrase": "hypotonia",
+            "noisy_phrase": "hyptonia",
+            "expected_hpo": "HP:0001252",
+            "detected": []
+        }
+    ]
+}
