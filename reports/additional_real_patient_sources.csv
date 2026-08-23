@@ -1,0 +1,2 @@
+Disease,Source_Paper,Number_of_Patients,Cohort_Details,Patient_Level_Data_Available,Genetically_Confirmed,Deduplication_Action
+KBG Syndrome,PMID:36446582 (Martinez-Cayuelas et al. 2023),340,"67 newly recruited patients, 273 previously published patients",Yes,Yes,67 newly recruited integrated; 273 previously published excluded to review file.

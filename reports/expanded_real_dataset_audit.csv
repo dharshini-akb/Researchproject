@@ -1,0 +1,5 @@
+Dataset,Total_Patients,Unique_HPO_Terms,Patients_With_ge_1_HPO,Patients_With_ge_5_HPO,Patients_With_ge_10_HPO
+Original Dataset,67,47,67,50,10
+New Verified,67,48,67,64,47
+Expanded Dataset,134,78,134,114,57
+Unresolved Dataset,266,48,266,176,65
