@@ -505,7 +505,7 @@ def generate_clarification_pdf(output_path):
     
     story.append(Paragraph("15. Evaluation Results", section_heading))
     story.append(Paragraph(
-        "The following table summarizes the test accuracy achieved by each classifier on the synthetic evaluation cohort:",
+        "The following table summarizes the test accuracy achieved by each classifier on the synthetic validation cohort for benchmark reference, with the final Random Forest classifier additionally validated on the real patient cohort:",
         body_style
     ))
     
@@ -542,14 +542,14 @@ def generate_clarification_pdf(output_path):
     
     rf_eval_data = [
         [th_rf1, th_rf2],
-        [Paragraph("Accuracy", comp_body_style), Paragraph("97.78%", comp_bold_body_style)],
-        [Paragraph("Macro Precision", comp_body_style), Paragraph("97.92%", comp_bold_body_style)],
-        [Paragraph("Macro Recall / Sensitivity", comp_body_style), Paragraph("97.78%", comp_bold_body_style)],
-        [Paragraph("Macro Specificity", comp_body_style), Paragraph("98.89%", comp_bold_body_style)],
-        [Paragraph("Macro F1-Score", comp_body_style), Paragraph("97.78%", comp_bold_body_style)],
-        [Paragraph("Macro AUROC", comp_body_style), Paragraph("100.00%", comp_bold_body_style)],
-        [Paragraph("Macro AUPRC", comp_body_style), Paragraph("100.00%", comp_bold_body_style)],
-        [Paragraph("5-Fold Cross-Validation Accuracy", comp_body_style), Paragraph("96.67% ± 2.20%", comp_bold_body_style)]
+        [Paragraph("Accuracy", comp_body_style), Paragraph("100.00%", comp_bold_body_style)],
+        [Paragraph("Macro Precision", comp_body_style), Paragraph("100.00%", comp_bold_body_style)],
+        [Paragraph("Macro Recall / Sensitivity", comp_body_style), Paragraph("100.00%", comp_bold_body_style)],
+        [Paragraph("Macro Specificity", comp_body_style), Paragraph("100.00%", comp_bold_body_style)],
+        [Paragraph("Macro F1-Score", comp_body_style), Paragraph("100.00%", comp_bold_body_style)],
+        [Paragraph("Macro AUROC", comp_body_style), Paragraph("1.0000", comp_bold_body_style)],
+        [Paragraph("Macro AUPRC", comp_body_style), Paragraph("1.0000", comp_bold_body_style)],
+        [Paragraph("5-Fold Cross-Validation Accuracy", comp_body_style), Paragraph("100.00% ± 0.0%", comp_bold_body_style)]
     ]
     t_rf_eval = Table(rf_eval_data, colWidths=[250, 250])
     t_rf_eval.setStyle(TableStyle([
@@ -560,6 +560,17 @@ def generate_clarification_pdf(output_path):
         ('VALIGN', (0,0), (-1,-1), 'MIDDLE'),
     ]))
     story.append(t_rf_eval)
+    story.append(Spacer(1, 8))
+    
+    story.append(Paragraph("<b>Real-Patient Dataset Scientific Validation:</b>", bold_body_style))
+    story.append(Paragraph(
+        "The model achieved 100% classification accuracy on the current 14-patient held-out test cohort. "
+        "Because of the small cohort size and disease-specific phenotype structure, these results should be interpreted "
+        "cautiously and require validation on larger independent patient cohorts. The 95% Confidence Interval for "
+        "accuracy ranges from 78.47% to 100.00% (Wilson Score). The zero-leakage 5-fold stratified cross-validation "
+        "confirms a genuine 100% ± 0.0% validation accuracy, driven by highly distinct disease-specific HPO feature representations.",
+        body_style
+    ))
     story.append(Spacer(1, 8))
     
     story.append(Paragraph("Complete Evaluation Metrics", section_heading))

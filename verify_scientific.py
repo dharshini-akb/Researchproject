@@ -12,6 +12,8 @@ from utils import logger, metrics
 from models.random_forest import RandomForestModel
 from models.tabnet import TabNetModel, TabNetCore
 from explainability.shap_explainer import RareDiseaseExplainer
+import preprocessing.data_loader as data_loader
+from preprocessing.preprocess import clean_data
 
 log = logger.get_logger("verify_scientific")
 
@@ -49,18 +51,63 @@ def run_leakage_checks(X_train, X_val, X_test):
         "feature_count": X_train.shape[1]
     }
 
-def run_rf_cross_validation(X, y):
+def run_rf_cross_validation(df_full_train_raw):
     """
-    Performs 5-fold Stratified Cross Validation for Random Forest and reports metrics.
+    Performs 5-fold Stratified Cross Validation for Random Forest and reports metrics,
+    fitting the HPO vocabulary and feature vectorization *inside* each training fold.
     """
-    log.info("Running 5-fold Stratified Cross-Validation on Random Forest...")
+    log.info("Running 5-fold Stratified Cross-Validation on Random Forest with inside-fold preprocessing...")
     skf = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
     
-    accs, precs, recs, f1s = [], [], [], []
+    # Map target
+    y = df_full_train_raw['disease_id'].map(system_config.DISEASE_MAP)
     
-    for fold, (train_idx, val_idx) in enumerate(skf.split(X, y)):
-        X_fold_train, y_fold_train = X.iloc[train_idx], y.iloc[train_idx]
-        X_fold_val, y_fold_val = X.iloc[val_idx], y.iloc[val_idx]
+    accs, precs, recs, f1s = [], [], [], []
+    sex_categories = ['MALE', 'FEMALE', 'UNKNOWN_SEX']
+    sex_mapping = {cat: idx for idx, cat in enumerate(sex_categories)}
+    
+    for fold, (train_idx, val_idx) in enumerate(skf.split(df_full_train_raw, y)):
+        df_fold_train = df_full_train_raw.iloc[train_idx].reset_index(drop=True)
+        df_fold_val = df_full_train_raw.iloc[val_idx].reset_index(drop=True)
+        y_fold_train = y.iloc[train_idx].reset_index(drop=True)
+        y_fold_val = y.iloc[val_idx].reset_index(drop=True)
+        
+        # Fit vocabulary on training fold only
+        active_terms = set()
+        for idx, row in df_fold_train.iterrows():
+            hpo_str = str(row['hpo_ids']).strip()
+            if hpo_str and hpo_str != "nan":
+                active_terms.update(hpo_str.split('|'))
+        hpo_vocab = sorted(list(active_terms))
+        
+        # Encode HPOs
+        def encode_hpos(df_split, vocab):
+            encoded = []
+            for idx, row in df_split.iterrows():
+                patient_hpos = set(str(row['hpo_ids']).strip().split('|'))
+                vec = [1 if term in patient_hpos else 0 for term in vocab]
+                encoded.append(vec)
+            return pd.DataFrame(encoded, columns=vocab)
+            
+        def encode_sex(df_split):
+            encoded_sex = []
+            for idx, row in df_split.iterrows():
+                sex_val = str(row['sex']).strip().upper()
+                vec = [0] * len(sex_categories)
+                if sex_val in sex_mapping:
+                    vec[sex_mapping[sex_val]] = 1
+                else:
+                    vec[sex_mapping['UNKNOWN_SEX']] = 1
+                encoded_sex.append(vec)
+            return pd.DataFrame(encoded_sex, columns=[f"sex_{cat}" for cat in sex_categories])
+            
+        X_fold_train_hpo = encode_hpos(df_fold_train, hpo_vocab)
+        X_fold_val_hpo = encode_hpos(df_fold_val, hpo_vocab)
+        X_fold_train_sex = encode_sex(df_fold_train)
+        X_fold_val_sex = encode_sex(df_fold_val)
+        
+        X_fold_train = pd.concat([X_fold_train_hpo, X_fold_train_sex], axis=1)
+        X_fold_val = pd.concat([X_fold_val_hpo, X_fold_val_sex], axis=1)
         
         # Initialize and fit calibrated RF on the training fold
         rf = RandomForestClassifier(**system_config.RF_PARAMS)
@@ -86,6 +133,7 @@ def run_rf_cross_validation(X, y):
         "f1_mean": float(np.mean(f1s)),
         "f1_std": float(np.std(f1s))
     }
+
 
 def train_optimized_tabnet(X_train, y_train, X_val, y_val, X_test, y_test):
     """
@@ -222,10 +270,13 @@ def main():
     leakage_stats = run_leakage_checks(X_train, X_val, X_test)
     
     # 2. RF cross validation
-    # Concat train and validation for full training cross-validation
-    X_full_train = pd.concat([X_train, X_val]).reset_index(drop=True)
-    y_full_train = pd.concat([y_train, y_val]).reset_index(drop=True)
-    rf_cv_results = run_rf_cross_validation(X_full_train, y_full_train)
+    # Load raw patient records and manifests to prepare un-vectorized train+validation subsets
+    df_raw = data_loader.load_patient_records()
+    df_cleaned = clean_data(df_raw)
+    df_train_manifest, df_val_manifest, _ = data_loader.load_splits_manifests()
+    train_val_manifest = pd.concat([df_train_manifest, df_val_manifest]).reset_index(drop=True)
+    df_full_train_raw = df_cleaned[df_cleaned['case_id'].isin(train_val_manifest['case_id'])].reset_index(drop=True)
+    rf_cv_results = run_rf_cross_validation(df_full_train_raw)
     
     # 3. TabNet Optimization
     tabnet_opt_results = train_optimized_tabnet(X_train, y_train, X_val, y_val, X_test, y_test)
