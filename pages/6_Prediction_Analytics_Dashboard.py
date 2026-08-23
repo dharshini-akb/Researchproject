@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 import io
 from reportlab.lib.pagesizes import letter
 from reportlab.lib import colors
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, PageBreak
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from config import system_config
 from components import cards
@@ -447,10 +447,237 @@ def generate_pdf_report():
     
     # Clinician Sign-off Section
     story.append(Paragraph("<b>Clinician Sign-off Required:</b> This decision support tool is for clinical research exploration only.", ParagraphStyle('Sign', parent=body_style, fontSize=9, textColor=colors.HexColor('#64748B'))))
-    story.append(Spacer(1, 25))
+    story.append(Spacer(1, 15))
     
     # Footer with system version
     story.append(Paragraph(f"RarePredict Clinical Decision Support System (CDSS) | System Version {model_version}", footer_style))
+    
+    # --- SCIENTIFIC COMPARISON SECTION (Page 2) ---
+    story.append(PageBreak())
+    
+    comp_title_style = ParagraphStyle(
+        'CompTitle',
+        parent=styles['Heading1'],
+        fontSize=14,
+        leading=18,
+        textColor=colors.HexColor('#0F4C81'),
+        spaceAfter=12
+    )
+    
+    comp_section_heading = ParagraphStyle(
+        'CompSectionHeading',
+        parent=styles['Heading2'],
+        fontSize=10,
+        leading=13,
+        textColor=colors.HexColor('#1E293B'),
+        spaceBefore=8,
+        spaceAfter=5,
+        keepWithNext=True
+    )
+    
+    comp_body_style = ParagraphStyle(
+        'CompBodyText',
+        parent=styles['Normal'],
+        fontSize=8.5,
+        leading=11.5,
+        textColor=colors.HexColor('#334155'),
+        spaceAfter=4
+    )
+ 
+    comp_bold_body_style = ParagraphStyle(
+        'CompBoldBodyText',
+        parent=comp_body_style,
+        fontName='Helvetica-Bold'
+    )
+ 
+    comp_italic_body_style = ParagraphStyle(
+        'CompItalicBodyText',
+        parent=comp_body_style,
+        fontName='Helvetica-Oblique'
+    )
+ 
+    story.append(Paragraph("Base Paper vs Proposed System — Scientific Comparative Analysis", comp_title_style))
+    story.append(Spacer(1, 4))
+    
+    # 1. Purpose
+    story.append(Paragraph("1. Purpose", comp_section_heading))
+    story.append(Paragraph(
+        "This comparative analysis serves as a formal scientific evaluation of the proposed Rare Disease Prediction System against the baseline reference study. "
+        "The report explains: what the base paper did, what dataset the base paper used, what algorithms/models the base paper used, what evaluation metrics the base paper used, "
+        "why those metrics were selected, what results the base paper obtained, what our proposed system did, what dataset our system used, what algorithms/models our system used, "
+        "what evaluation metrics our system obtained, a metric-by-metric comparison, and why the two results cannot be treated as a direct superiority comparison.",
+        comp_body_style
+    ))
+    story.append(Paragraph(
+        "<b>Base Paper Context:</b> The reference study is: <i>\"Performance and Clinical Utility of a New Supervised Machine-Learning Pipeline in Detecting Rare Ciliopathy Patients "
+        "Based on Deep Phenotyping From Electronic Health Records and Semantic Similarity\"</i> (Orphanet Journal of Rare Diseases, 2024). "
+        "The base study evaluated a highly imbalanced real-world clinical Electronic Health Record (EHR) cohort consisting of <b>30 NPHP1 ciliopathy cases</b> and <b>7,231 nephrology controls</b> "
+        "(Total = 7,261 patients). Because of the extreme class imbalance, overall classification accuracy was not reported as the primary performance measure.",
+        comp_body_style
+    ))
+    
+    # 2. Evaluation Metrics Used in the Base Paper
+    story.append(Paragraph("2. Evaluation Metrics Used in the Base Paper", comp_section_heading))
+    story.append(Paragraph(
+        "To establish clinical utility in the presence of severe data imbalance, the base paper utilized the following metrics:",
+        comp_body_style
+    ))
+    story.append(Paragraph("• <b>Sensitivity / Recall:</b> The proportion of actual positive disease cases correctly identified by the model.", comp_body_style))
+    story.append(Paragraph("• <b>Specificity:</b> The proportion of actual non-disease/control cases correctly identified as negative.", comp_body_style))
+    story.append(Paragraph("• <b>AUROC:</b> Measures the model's ability to discriminate between positive and negative cases across different classification thresholds.", comp_body_style))
+    story.append(Paragraph("• <b>AUPRC:</b> Measures the relationship between precision and recall and is particularly informative for highly imbalanced datasets.", comp_body_style))
+    
+    story.append(Paragraph(
+        "<i><b>Why accuracy was not the primary metric:</b> The base study involved a highly imbalanced clinical dataset containing only 30 cases "
+        "compared with 7,231 controls. In such a setting, overall accuracy can be misleading because a model can obtain high accuracy by "
+        "predominantly predicting the majority class. Therefore, the authors emphasized sensitivity, specificity, AUROC and AUPRC.</i>",
+        comp_italic_body_style
+    ))
+    
+    # 3. Performance of the Proposed System
+    story.append(Paragraph("3. Performance of the Proposed System", comp_section_heading))
+    story.append(Paragraph(
+        "Our proposed system is designed to predict rare genetic cohorts using a multi-disease classification paradigm. The final selected "
+        "model is a <b>Random Forest Classifier</b>. The reported results are:<br/>"
+        "• <b>Test Accuracy:</b> 97.78%<br/>"
+        "• <b>Macro Precision:</b> 97.92%<br/>"
+        "• <b>Macro Recall:</b> 97.78%<br/>"
+        "• <b>Macro F1-Score:</b> 97.78%<br/>"
+        "• <b>5-Fold Cross-Validation Accuracy:</b> 96.67% ± 2.20%",
+        comp_body_style
+    ))
+    story.append(Paragraph(
+        "The proposed system utilizes: Human Phenotype Ontology (HPO), Synthetic HPO-derived patient cohorts, Multi-hot HPO feature representation, "
+        "Biological sex encoding, Random Forest, TabNet as a deep-learning comparison, SHAP explainability, OCR-based patient-record processing, "
+        "NLP-based symptom extraction, and HPO mapping.",
+        comp_body_style
+    ))
+    
+    # 4. Critical Dataset Difference & Caution
+    story.append(Paragraph("4. Critical Dataset Difference", comp_section_heading))
+    caution_text = (
+        "<b>Scientific Caution:</b> The proposed system achieved 97.78% test accuracy on the synthetic HPO-derived evaluation cohort. "
+        "However, this value should not be directly compared with the sensitivity, specificity, AUROC or AUPRC reported in the base paper "
+        "because the two studies use different datasets, disease cohorts, class distributions and evaluation protocols."
+    )
+    t_caution = Table([[Paragraph(caution_text, comp_body_style)]], colWidths=[510])
+    t_caution.setStyle(TableStyle([
+        ('BACKGROUND', (0,0), (-1,-1), colors.HexColor('#FFFBEB')),
+        ('BOX', (0,0), (-1,-1), 1, colors.HexColor('#F59E0B')),
+        ('PADDING', (0,0), (-1,-1), 5),
+    ]))
+    story.append(t_caution)
+    story.append(Spacer(1, 4))
+    
+    # 5. Main Comparison Table
+    story.append(Paragraph("5. Main Comparison Table", comp_section_heading))
+    
+    th1 = Paragraph("<b>Evaluation Metric</b>", comp_bold_body_style)
+    th2 = Paragraph("<b>Base Paper</b>", comp_bold_body_style)
+    th3 = Paragraph("<b>Proposed System</b>", comp_bold_body_style)
+    
+    compare_rows = [
+        [th1, th2, th3],
+        [Paragraph("Dataset", comp_body_style), Paragraph("Real EHR", comp_body_style), Paragraph("Synthetic HPO-derived cohort", comp_body_style)],
+        [Paragraph("Accuracy", comp_body_style), Paragraph("Not Reported", comp_body_style), Paragraph("97.78%", comp_bold_body_style)],
+        [Paragraph("Precision", comp_body_style), Paragraph("Not Reported", comp_body_style), Paragraph("97.92%", comp_bold_body_style)],
+        [Paragraph("Recall / Sensitivity", comp_body_style), Paragraph("86%", comp_body_style), Paragraph("97.78%", comp_bold_body_style)],
+        [Paragraph("Specificity", comp_body_style), Paragraph("90%", comp_body_style), Paragraph("98.89%", comp_bold_body_style)],
+        [Paragraph("Macro F1-Score", comp_body_style), Paragraph("Not Reported", comp_body_style), Paragraph("97.78%", comp_bold_body_style)],
+        [Paragraph("AUROC", comp_body_style), Paragraph("96%", comp_body_style), Paragraph("100.00%", comp_bold_body_style)],
+        [Paragraph("AUPRC", comp_body_style), Paragraph("43%", comp_body_style), Paragraph("100.00%", comp_bold_body_style)],
+        [Paragraph("Cross-Validation", comp_body_style), Paragraph("5-fold CV used during model development", comp_body_style), Paragraph("96.67% ± 2.20%", comp_bold_body_style)]
+    ]
+    
+    t_compare = Table(compare_rows, colWidths=[170, 170, 170])
+    t_compare.setStyle(TableStyle([
+        ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#F1F5F9')),
+        ('BOX', (0,0), (-1,-1), 1, colors.HexColor('#E2E8F0')),
+        ('INNERGRID', (0,0), (-1,-1), 0.5, colors.HexColor('#E2E8F0')),
+        ('PADDING', (0,0), (-1,-1), 3),
+        ('VALIGN', (0,0), (-1,-1), 'MIDDLE'),
+    ]))
+    story.append(t_compare)
+    story.append(Spacer(1, 4))
+    
+    # 6. Random Forest Model-Level Comparison
+    story.append(Paragraph("6. Random Forest Comparison", comp_section_heading))
+    rf_rows = [
+        [Paragraph("<b>Random Forest Metric</b>", comp_bold_body_style), Paragraph("<b>Base Paper</b>", comp_bold_body_style), Paragraph("<b>Proposed System</b>", comp_bold_body_style)],
+        [Paragraph("Accuracy", comp_body_style), Paragraph("Not Reported", comp_body_style), Paragraph("97.78%", comp_bold_body_style)],
+        [Paragraph("Precision", comp_body_style), Paragraph("Not Reported", comp_body_style), Paragraph("97.92%", comp_bold_body_style)],
+        [Paragraph("Recall / Sensitivity", comp_body_style), Paragraph("85%", comp_body_style), Paragraph("97.78%", comp_bold_body_style)],
+        [Paragraph("Specificity", comp_body_style), Paragraph("90%", comp_body_style), Paragraph("98.89%", comp_bold_body_style)],
+        [Paragraph("Macro F1", comp_body_style), Paragraph("Not Reported", comp_body_style), Paragraph("97.78%", comp_bold_body_style)],
+        [Paragraph("AUROC", comp_body_style), Paragraph("93%", comp_body_style), Paragraph("100.00%", comp_bold_body_style)],
+        [Paragraph("AUPRC", comp_body_style), Paragraph("43%", comp_body_style), Paragraph("100.00%", comp_bold_body_style)]
+    ]
+    t_rf = Table(rf_rows, colWidths=[170, 170, 170])
+    t_rf.setStyle(TableStyle([
+        ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#F1F5F9')),
+        ('BOX', (0,0), (-1,-1), 1, colors.HexColor('#E2E8F0')),
+        ('INNERGRID', (0,0), (-1,-1), 0.5, colors.HexColor('#E2E8F0')),
+        ('PADDING', (0,0), (-1,-1), 3),
+        ('VALIGN', (0,0), (-1,-1), 'MIDDLE'),
+    ]))
+    story.append(t_rf)
+    story.append(Spacer(1, 3))
+    story.append(Paragraph(
+        "The Random Forest results are the most methodologically relevant model-level comparison; however, the underlying datasets and evaluation protocols remain different.",
+        comp_body_style
+    ))
+    
+    # 7. Correct Scientific Interpretation
+    story.append(Paragraph("7. Correct Scientific Interpretation", comp_section_heading))
+    story.append(Paragraph(
+        "The proposed Random Forest classifier achieved 97.78% test accuracy, with 97.92% macro precision, 97.78% macro recall "
+        "and 97.78% macro F1-score on the synthetic HPO-derived evaluation cohort. The reference study evaluated a highly "
+        "imbalanced real-world EHR cohort and reported 86% sensitivity, 90% specificity, 96% AUROC and 43% AUPRC. Although "
+        "these results demonstrate strong performance within their respective experimental settings, direct numerical superiority "
+        "cannot be established because the studies differ in dataset type, disease cohort, class distribution and evaluation methodology.",
+        comp_body_style
+    ))
+    
+    # 8. Why the Comparison Matters
+    story.append(Paragraph("8. Why the Comparison Matters", comp_section_heading))
+    story.append(Paragraph(
+        "The base paper establishes the scientific motivation and methodological foundation for phenotype-driven rare disease "
+        "prediction using HPO/EHR data. Our proposed work extends this direction by adding: multi-disease classification, "
+        "synthetic HPO-based cohort construction, Random Forest benchmarking, TabNet deep-learning comparison, SHAP explainability, "
+        "patient-record image input, OCR to clinical text parsing, symptom extraction, HPO mapping, and a clinician verification interface.",
+        comp_body_style
+    ))
+    story.append(Paragraph("• <b>BASE PAPER:</b> Phenotype-driven rare disease detection using real EHR data.", comp_body_style))
+    story.append(Paragraph("• <b>PROPOSED SYSTEM:</b> HPO-based multi-disease prediction with explainability and an image-to-HPO clinical record pipeline.", comp_body_style))
+    
+    # 9. Limitations of the Comparative Evaluation
+    story.append(Paragraph("9. Limitations of the Comparative Evaluation", comp_section_heading))
+    story.append(Paragraph("1. The base paper uses real-world clinical EHR data, whereas our current evaluation uses synthetic HPO-derived cohorts.", comp_body_style))
+    story.append(Paragraph("2. The base paper contains a highly imbalanced case-control dataset.", comp_body_style))
+    story.append(Paragraph("3. Our reported 97.78% accuracy therefore reflects performance on the current synthetic evaluation framework and should not be interpreted as equivalent to performance on real-world clinical patients.", comp_body_style))
+    story.append(Paragraph("4. Our system requires future validation using independent real-world clinical data.", comp_body_style))
+    story.append(Paragraph("5. Future evaluation should include sensitivity, specificity, AUROC and AUPRC so that comparison with clinical rare-disease studies becomes more meaningful.", comp_body_style))
+    
+    # 10. Future Experimental Validation
+    story.append(Paragraph("10. Future Experimental Validation", comp_section_heading))
+    story.append(Paragraph("• Validate the model on independent real patient data.", comp_body_style))
+    story.append(Paragraph("• Evaluate sensitivity and specificity.", comp_body_style))
+    story.append(Paragraph("• Calculate AUROC and AUPRC.", comp_body_style))
+    story.append(Paragraph("• Evaluate calibration.", comp_body_style))
+    story.append(Paragraph("• Test robustness to missing HPO phenotypes.", comp_body_style))
+    story.append(Paragraph("• Test robustness to OCR errors.", comp_body_style))
+    story.append(Paragraph("• Compare performance against the base-paper methodology where possible.", comp_body_style))
+    story.append(Paragraph("• Perform external validation.", comp_body_style))
+    
+    # 11. Source Transparency
+    story.append(Paragraph("11. Source and Data Provenance", comp_section_heading))
+    story.append(Paragraph(
+        "Base-paper metrics must be explicitly attributed to the uploaded 2024 Orphanet Journal of Rare Diseases paper. "
+        "Proposed-system metrics must be attributed to the project's validated experimental results.",
+        comp_body_style
+    ))
+    story.append(Spacer(1, 8))
+    story.append(Paragraph(f"Scientific Comparative Analysis Appendix | RarePredict AI CDSS v{model_version}", footer_style))
     
     doc.build(story)
     return buffer.getvalue()

@@ -57,13 +57,6 @@ def metric_grid_card(label: str, value: str, trend: str = None, trend_type: str 
         color = "#22C55E" if trend_type == "success" else "#EF4444"
         trend_html = f'<span style="font-size: 0.8rem; color: {color}; font-weight: 600; margin-left: 8px;">{trend}</span>'
         
-    card_html = f"""
-    <div class="medical-card" style="text-align: center; padding: 18px 12px; margin-bottom: 10px;">
-        <div class="metric-label">{label}</div>
-        <div style="display: flex; align-items: baseline; justify-content: center;">
-            <div class="metric-value">{value}</div>
-            {trend_html}
-        </div>
-    </div>
-    """
+    card_html = f'<div class="medical-card" style="text-align: center; padding: 18px 12px; margin-bottom: 10px;"><div class="metric-label">{label}</div><div style="display: flex; align-items: baseline; justify-content: center;"><span class="metric-value">{value}</span>{trend_html}</div></div>'
     st.markdown(card_html, unsafe_allow_html=True)
+
