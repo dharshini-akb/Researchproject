@@ -8,7 +8,7 @@ An AI-powered web application and research framework designed to predict selecte
 This project benchmarks classical machine learning (Random Forest) against deep learning (TabNet) and six baseline classifiers (SVM, Logistic Regression, Decision Tree, Naive Bayes, KNN, XGBoost) to classify patients into three rare syndromic cohorts:
 1. **White-Sutton syndrome** (`OMIM:616364`)
 2. **Xia-Gibbs syndrome** (`OMIM:615829`)
-3. **Cornelia de Lange syndrome 1** (`OMIM:122470`)
+3. **KBG syndrome** (`OMIM:148050`)
 
 Predictions are resolved globally and locally using Shapley Additive exPlanations (SHAP) and neural attention masks.
 

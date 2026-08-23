@@ -48,8 +48,7 @@ def load_patient_records(csv_path: str = None) -> pd.DataFrame:
     Loads raw three disease patient records.
     """
     if csv_path is None:
-        # We prefer using selected_set1_patient_records.csv or three_disease_patient_records.csv
-        csv_path = os.path.join(system_config.RAW_DATA_DIR, "selected_set1_patient_records.csv")
+        csv_path = os.path.join(system_config.DATA_DIR, "real_patient_hpo_dataset.csv")
         
     log.info(f"Loading patient records from {csv_path}...")
     if not os.path.exists(csv_path):

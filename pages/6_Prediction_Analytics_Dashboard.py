@@ -207,23 +207,23 @@ col_info, col_report = st.columns([1, 1], gap="large")
 
 # Disease info details mapping
 disease_db = {
-    "White-Sutton syndrome": {
+    "White-Sutton Syndrome": {
         "inheritance": "Autosomal Dominant",
         "omim": "616364",
         "symptoms": "Intellectual disability, autism features, hypotonia, microcephaly, characteristic facial features, language delay.",
         "description": "White-Sutton syndrome is a neurodevelopmental disorder characterized by global developmental delay, intellectual disability, and significant delays in speech and motor development. It is caused by a heterozygous mutation in the POGZ gene on chromosome 3q26."
     },
-    "Xia-Gibbs syndrome": {
+    "Xia-Gibbs Syndrome": {
         "inheritance": "Autosomal Dominant",
         "omim": "615829",
         "symptoms": "Hypotonia, structural brain abnormalities, global developmental delay, intellectual disability, sleep apnea.",
         "description": "Xia-Gibbs syndrome is a rare autosomal dominant disorder caused by mutations in the AHDC1 gene. Features include mild to severe developmental delay, hypotonia, and developmental milestones impairment."
     },
-    "Cornelia de Lange syndrome 1": {
+    "KBG Syndrome": {
         "inheritance": "Autosomal Dominant",
-        "omim": "122470",
-        "symptoms": "Synophrys, microcephaly, growth failure, limb reduction, intellectual disability, hypertrichosis.",
-        "description": "Cornelia de Lange syndrome (CdLS) is a multisystem malformation syndrome characterized by dysmorphic facial features, microcephaly, growth failure, and intellectual disability, caused primarily by NIPBL gene mutations."
+        "omim": "148050",
+        "symptoms": "Macrodontia, short stature, learning difficulties, high palate, clinodactyly, global developmental delay, speech delay, cryptorchidism, seizures.",
+        "description": "KBG Syndrome is a rare autosomal dominant neurodevelopmental disorder caused by mutations or deletions in the ANKRD11 gene, characterized by distinctive facial gestures, macrodontia, skeletal anomalies, and intellectual impairment."
     }
 }
 

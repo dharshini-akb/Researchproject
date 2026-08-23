@@ -15,21 +15,21 @@ PREPROC_ARTIFACTS_DIR = os.path.join(PROCESSED_DATA_DIR, "metadata")
 
 # Disease mappings
 DISEASE_MAP = {
-    "OMIM:616364": 0, # White-Sutton syndrome
-    "OMIM:615829": 1, # Xia-Gibbs syndrome
-    "OMIM:122470": 2  # Cornelia de Lange syndrome 1
+    "OMIM:616364": 0, # White-Sutton Syndrome
+    "OMIM:615829": 1, # Xia-Gibbs Syndrome
+    "OMIM:148050": 2  # KBG Syndrome
 }
 
 DISEASE_NAMES = {
-    0: "White-Sutton syndrome",
-    1: "Xia-Gibbs syndrome",
-    2: "Cornelia de Lange syndrome 1"
+    0: "White-Sutton Syndrome",
+    1: "Xia-Gibbs Syndrome",
+    2: "KBG Syndrome"
 }
 
 DISEASE_OMIMS = {
     0: "OMIM:616364",
     1: "OMIM:615829",
-    2: "OMIM:122470"
+    2: "OMIM:148050"
 }
 
 # Configuration configurations for feature types

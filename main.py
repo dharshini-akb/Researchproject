@@ -76,7 +76,7 @@ with col1:
         Currently trained to differentiate and recognize three complex rare genetic syndromes:
         1. **White-Sutton syndrome** (`OMIM:616364`)
         2. **Xia-Gibbs syndrome** (`OMIM:615829`)
-        3. **Cornelia de Lange syndrome 1** (`OMIM:122470`)
+        3. **KBG syndrome** (`OMIM:148050`)
         """
     )
     

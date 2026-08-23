@@ -17,6 +17,23 @@ def clean_data(df: pd.DataFrame) -> pd.DataFrame:
     log.info("Cleaning patient records...")
     df = df.copy()
     
+    # Map capitalized real dataset columns if they exist
+    if 'Patient_ID' in df.columns:
+        df['case_id'] = df['Patient_ID']
+    if 'Sex' in df.columns:
+        df['sex'] = df['Sex']
+    if 'HPO_IDs' in df.columns:
+        df['hpo_ids'] = df['HPO_IDs']
+    if 'HPO_Terms' in df.columns:
+        df['symptom_names'] = df['HPO_Terms']
+    if 'Disease' in df.columns:
+        disease_omim_map = {
+            "White-Sutton Syndrome": "OMIM:616364",
+            "Xia-Gibbs Syndrome": "OMIM:615829",
+            "KBG Syndrome": "OMIM:148050"
+        }
+        df['disease_id'] = df['Disease'].map(disease_omim_map)
+    
     # Standardize sex
     df['sex'] = df['sex'].astype(str).str.upper().str.strip()
     df['sex'] = df['sex'].replace({

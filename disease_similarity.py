@@ -7,7 +7,7 @@ def main():
     df = pd.read_csv(hpoa_path, sep="\t", comment="#")
     
     # Target diseases
-    target_omims = ["OMIM:616364", "OMIM:615829", "OMIM:122470"]
+    target_omims = ["OMIM:616364", "OMIM:615829", "OMIM:148050"]
     
     print("=== ANNOTATION DETAILS FOR PREVIOUS TARGET DISEASES ===")
     for omim in target_omims:
