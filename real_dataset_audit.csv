@@ -1,0 +1,4 @@
+Disease,Source,Number_of_Patients,Patient_Level_Data_Available,HPO_Available,Clinical_Phenotypes_Available,Age_Available,Sex_Available,Usable_For_Model,Notes
+White-Sutton syndrome,PMC7713511,22,Yes,No (Mapped using hp.obo),Yes,Yes,Yes,Yes,"Detailed patient-level cognitive, neurological and dysmorphic features extracted from Tables 3, 4, 6."
+Xia-Gibbs syndrome,PMC6231716,20,Yes,No (Mapped using hp.obo),Yes,Yes,Yes,Yes,Detailed patient-level features extracted from Table 1.
+Cornelia de Lange syndrome 1,PMC4902018,49,No,No,Yes (Aggregate only),No,No,No,Aggregate phenotype data — not suitable for direct patient-level training

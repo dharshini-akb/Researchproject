@@ -1,0 +1,1828 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Am J Med Genet A</journal-id><journal-id journal-id-type="iso-abbrev">Am. J. Med. Genet. A</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">101235741</journal-id><journal-id journal-id-type="publisher-id">AJMG</journal-id><journal-title-group><journal-title>American Journal of Medical Genetics. Part a</journal-title></journal-title-group><issn pub-type="ppub">1552-4825</issn><issn pub-type="epub">1552-4833</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC5435101</article-id><article-id pub-id-type="pmcid-ver">PMC5435101.2</article-id><article-id pub-id-type="pmcaid">5435101</article-id><article-id pub-id-type="pmcaiid">5956993</article-id><article-id pub-id-type="pmid">27667800</article-id><article-id pub-id-type="doi">10.1002/ajmg.a.37842</article-id><article-id pub-id-type="publisher-id">AJMGA37842</article-id><article-version article-version-type="pmc-version">2</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Clinical and genetic aspects of KBG syndrome</article-title><alt-title alt-title-type="left-running-head">LOW ET AL</alt-title></title-group><contrib-group><contrib id="ajmga37842-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Low</surname><given-names initials="K">Karen</given-names></name><address><email>Karen.low1@nhs.net</email></address><xref ref-type="aff" rid="ajmga37842-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0002" contrib-type="author"><name name-style="western"><surname>Ashraf</surname><given-names initials="T">Tazeen</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0003" contrib-type="author"><name name-style="western"><surname>Canham</surname><given-names initials="N">Natalie</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0004" contrib-type="author"><name name-style="western"><surname>Clayton‐Smith</surname><given-names initials="J">Jill</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="ajmga37842-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0005" contrib-type="author"><name name-style="western"><surname>Deshpande</surname><given-names initials="C">Charu</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0006" contrib-type="author"><name name-style="western"><surname>Donaldson</surname><given-names initials="A">Alan</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0007" contrib-type="author"><name name-style="western"><surname>Fisher</surname><given-names initials="R">Richard</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0008" contrib-type="author"><name name-style="western"><surname>Flinter</surname><given-names initials="F">Frances</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0009" contrib-type="author"><name name-style="western"><surname>Foulds</surname><given-names initials="N">Nicola</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0010" contrib-type="author"><name name-style="western"><surname>Fryer</surname><given-names initials="A">Alan</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0011" contrib-type="author"><name name-style="western"><surname>Gibson</surname><given-names initials="K">Kate</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0012" contrib-type="author"><name name-style="western"><surname>Hayes</surname><given-names initials="I">Ian</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0013" contrib-type="author"><name name-style="western"><surname>Hills</surname><given-names initials="A">Alison</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0011">
+<sup>11</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0014" contrib-type="author"><name name-style="western"><surname>Holder</surname><given-names initials="S">Susan</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0015" contrib-type="author"><name name-style="western"><surname>Irving</surname><given-names initials="M">Melita</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0016" contrib-type="author"><name name-style="western"><surname>Joss</surname><given-names initials="S">Shelagh</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0012">
+<sup>12</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0017" contrib-type="author"><name name-style="western"><surname>Kivuva</surname><given-names initials="E">Emma</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0013">
+<sup>13</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0018" contrib-type="author"><name name-style="western"><surname>Lachlan</surname><given-names initials="K">Kathryn</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0019" contrib-type="author"><name name-style="western"><surname>Magee</surname><given-names initials="A">Alex</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0014">
+<sup>14</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0020" contrib-type="author"><name name-style="western"><surname>McConnell</surname><given-names initials="V">Vivienne</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0014">
+<sup>14</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0021" contrib-type="author"><name name-style="western"><surname>McEntagart</surname><given-names initials="M">Meriel</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0015">
+<sup>15</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0022" contrib-type="author"><name name-style="western"><surname>Metcalfe</surname><given-names initials="K">Kay</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0023" contrib-type="author"><name name-style="western"><surname>Montgomery</surname><given-names initials="T">Tara</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0016">
+<sup>16</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0024" contrib-type="author"><name name-style="western"><surname>Newbury‐Ecob</surname><given-names initials="R">Ruth</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0025" contrib-type="author"><name name-style="western"><surname>Stewart</surname><given-names initials="F">Fiona</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0014">
+<sup>14</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0026" contrib-type="author"><name name-style="western"><surname>Turnpenny</surname><given-names initials="P">Peter</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0013">
+<sup>13</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0027" contrib-type="author"><name name-style="western"><surname>Vogt</surname><given-names initials="J">Julie</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0017">
+<sup>17</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0028" contrib-type="author"><name name-style="western"><surname>Fitzpatrick</surname><given-names initials="D">David</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0018">
+<sup>18</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0029" contrib-type="author"><name name-style="western"><surname>Williams</surname><given-names initials="M">Maggie</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0011">
+<sup>11</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0030" contrib-type="author"><collab collab-type="authors">DDD Study</collab><xref ref-type="aff" rid="ajmga37842-aff-0019">
+<sup>19</sup>
+</xref></contrib><contrib id="ajmga37842-cr-0031" contrib-type="author"><name name-style="western"><surname>Smithson</surname><given-names initials="S">Sarah</given-names></name><xref ref-type="aff" rid="ajmga37842-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ajmga37842-aff-0001">
+<label><sup>1</sup></label>
+<institution>University Hospitals Bristol NHS Trust/University of Bristol</institution>
+<named-content content-type="city">Bristol</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0002">
+<label><sup>2</sup></label>
+<institution>Guy's and St Thomas’ NHS Trust</institution>
+<named-content content-type="city">London</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">North West Thames Regional Genetics Service</named-content>
+<institution>Harrow</institution>
+<named-content content-type="city">London</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Manchester Centre For Genomic Medicine</named-content>
+<institution>St Mary's Hospital Manchester</institution>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Institute of Human Development</named-content>
+<institution>University of Manchester</institution>
+<named-content content-type="city">Manchester</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Teesside Genetics Unit</named-content>
+<institution>The James Cook University Hospital</institution>
+<named-content content-type="city">Middlesbrough</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0007">
+<label><sup>7</sup></label>
+<institution>Wessex Clinical Genetics Service</institution>
+<named-content content-type="city">Southampton</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0008">
+<label><sup>8</sup></label>
+<institution>Liverpool Women's NHS Trust</institution>
+<named-content content-type="city">Liverpool</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Genetic Health Service NZ</named-content>
+<institution>Christchurch Hospital</institution>
+<named-content content-type="city">Christchurch</named-content>
+<country country="NZ">New Zealand</country>
+</aff><aff id="ajmga37842-aff-0010">
+<label><sup>10</sup></label>
+<named-content content-type="organisation-division">Genetic Health Service NZ</named-content>
+<institution>Auckland Hospital</institution>
+<named-content content-type="city">Auckland</named-content>
+<country country="NZ">New Zealand</country>
+</aff><aff id="ajmga37842-aff-0011">
+<label><sup>11</sup></label>
+<named-content content-type="organisation-division">Bristol Genetics Laboratory</named-content>
+<institution>North Bristol NHS Trust</institution>
+<named-content content-type="city">Bristol</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0012">
+<label><sup>12</sup></label>
+<named-content content-type="organisation-division">West of Scotland Department of Clinical Genetics</named-content>
+<institution>Glasgow</institution>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0013">
+<label><sup>13</sup></label>
+<institution>Royal Devon and Exeter Hospital</institution>
+<named-content content-type="city">Exeter</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0014">
+<label><sup>14</sup></label>
+<named-content content-type="organisation-division">Northern Ireland Regional Genetics Service</named-content>
+<institution>Belfast City Hospital</institution>
+<named-content content-type="city">Belfast</named-content>
+<country country="IE">Ireland</country>
+</aff><aff id="ajmga37842-aff-0015">
+<label><sup>15</sup></label>
+<named-content content-type="organisation-division">South West Thames Clinical Genetics Service</named-content>
+<institution>St Georges Hospital</institution>
+<named-content content-type="city">London</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0016">
+<label><sup>16</sup></label>
+<institution>Northern Genetics Service</institution>
+<named-content content-type="city">Newcastle Upon Tyne</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0017">
+<label><sup>17</sup></label>
+<institution>West Midlands Regional Genetics Service</institution>
+<named-content content-type="city">Birmingham</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0018">
+<label><sup>18</sup></label>
+<named-content content-type="organisation-division">MRC Human Genetics Unit</named-content>
+<named-content content-type="organisation-division">MRC Institute of Genetics and Molecular Medicine</named-content>
+<institution>University of Edinburgh</institution>
+<named-content content-type="city">Edinburgh</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="ajmga37842-aff-0019">
+<label><sup>19</sup></label>
+<institution>Wellcome Trust Sanger Institute</institution>
+<named-content content-type="city">Cambridgeshire</named-content>
+<country country="GB">United Kingdom</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence to:<break/>
+Karen Low, Clinical Genetics, Level B, St Michaels Hospital, Southwell Street, Bristol, BS2 8EG, UK.<break/>
+E‐mail: 
+<email>Karen.low1@nhs.net</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>9</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2016</year></pub-date><volume>170</volume><issue>11</issue><issue-id pub-id-type="pmc-issue-id">313058</issue-id><issue-id pub-id-type="doi">10.1002/ajmg.a.v170.11</issue-id><fpage>2835</fpage><lpage>2846</lpage><history><date date-type="received"><day>03</day><month>3</month><year>2016</year></date><date date-type="accepted"><day>17</day><month>6</month><year>2016</year></date></history><pub-history><event event-type="pmc-release"><date><day>17</day><month>05</month><year>2018</year></date></event><event event-type="pmc-live"><date><day>17</day><month>05</month><year>2017</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-04-26 10:25:17.233"><day>26</day><month>04</month><year>2026</year></date></event><event event-type="pmc-version" specific-use="live"><article-id pub-id-type="pmcaiid">5435101</article-id><article-id pub-id-type="doi">10.1002/ajmg.a.37842</article-id><article-id pub-id-type="manuscript-id">EMS72338</article-id><article-version>1</article-version><pub-date><day>26</day><month>09</month><year>2016</year></pub-date></event><event event-type="pmc-version" specific-use="live"><article-id pub-id-type="pmcaiid">5956993</article-id><article-id pub-id-type="doi">10.1002/ajmg.a.37842</article-id><article-version>2</article-version><pub-date><day>26</day><month>09</month><year>2016</year></pub-date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2016 The Authors. <italic toggle="yes">American Journal of Medical Genetics Part A</italic> Published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="AJMG-170-2835.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:AJMG-170-2835.pdf"/><abstract><p>KBG syndrome is characterized by short stature, distinctive facial features, and developmental/cognitive delay and is caused by mutations in <italic toggle="yes">ANKRD11</italic>, one of the ankyrin repeat‐containing cofactors. We describe 32 KBG patients aged 2–47 years from 27 families ascertained via two pathways: targeted <italic toggle="yes">ANKRD11</italic> sequencing (TS) in a group who had a clinical diagnosis of KBG and whole exome sequencing (ES) in a second group in whom the diagnosis was unknown. Speech delay and learning difficulties were almost universal and variable behavioral problems frequent. Macrodontia of permanent upper central incisors was seen in 85%. Other clinical features included short stature, conductive hearing loss, recurrent middle ear infection, palatal abnormalities, and feeding difficulties. We recognized a new feature of a wide anterior fontanelle with delayed closure in 22%. The subtle facial features of KBG syndrome were recognizable in half the patients. We identified 20 <italic toggle="yes">ANKRD11</italic> mutations (18 novel: all truncating) confirmed by Sanger sequencing in 32 patients. Comparison of the two ascertainment groups demonstrated that facial/other typical features were more subtle in the ES group. There were no conclusive phenotype–genotype correlations. Our findings suggest that mutation of <italic toggle="yes">ANKRD11</italic> is a common Mendelian cause of developmental delay. Affected patients may not show the characteristic KBG phenotype and the diagnosis is therefore easily missed. We propose updated diagnostic criteria/clinical recommendations for KBG syndrome and suggest that inclusion of <italic toggle="yes">ANKRD11</italic> will increase the utility of gene panels designed to investigate developmental delay. © 2016 The Authors. <italic toggle="yes">American Journal of Medical Genetics Part A</italic> Published by Wiley Periodicals, Inc.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ajmga37842-kwd-0001">KBG syndrome</kwd><kwd id="ajmga37842-kwd-0002">macrodontia</kwd><kwd id="ajmga37842-kwd-0003"><italic toggle="yes">ANKRD11</italic></kwd></kwd-group><funding-group><award-group><funding-source>Health Innovation Challenge Fund</funding-source><award-id>HICF‐1009‐003</award-id></award-group><award-group><funding-source>Wellcome Trust and the Department of Health</funding-source></award-group><award-group><funding-source>Wellcome Trust Sanger Institute</funding-source><award-id>WT098051</award-id></award-group><award-group><funding-source>National Institute for Health Research</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="12"/><word-count count="6625"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ajmga37842</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.8.2 mode:remove_FC converted:17.05.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ajmga37842-cit-000A">
+<string-name name-style="western">
+<surname>Low</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ashraf</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Canham</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Clayton‐Smith</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Deshpande</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Donaldson</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fisher</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Flinter</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Foulds</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fryer</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gibson</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hayes</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hills</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Holder</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Irving</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Joss</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kivuva</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lachlan</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Magee</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McConnell</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McEntagart</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Metcalfe</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Montgomery</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Newbury‐Ecob</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Turnpenny</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Vogt</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fitzpatrick</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Williams</surname>
+<given-names>M</given-names>
+</string-name>, 
+<collab collab-type="authors">DDD Study</collab>
+.
+<string-name name-style="western">
+<surname>Smithson</surname>
+<given-names>S</given-names>
+</string-name>. 
+<year>2016</year>
+<article-title>Clinical and genetic aspects of KBG syndrome</article-title>. 
+<source xml:lang="en">Am J Med Genet Part A</source>
+<volume>170A</volume>:<fpage>2835</fpage>–<lpage>2846</lpage>.
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ajmg.a.37842</pub-id><pub-id pub-id-type="pmcid">PMC5435101</pub-id><pub-id pub-id-type="pmid">27667800</pub-id></mixed-citation>
+</p><fn-group><fn id="ajmga37842-note-0008"><p>Conflicts of interest: None.</p></fn></fn-group></notes></front><body><sec id="ajmga37842-sec-0002"><title>INTRODUCTION</title><p>KBG syndrome (MIM # 148050) [Herrmann et al., <xref rid="ajmga37842-bib-0008" ref-type="ref">1975</xref>] combines short‐stature, macrodontia of the permanent central upper incisors, distinctive facial features, learning difficulties, and neurobehavioral problems [Herrmann et al., <xref rid="ajmga37842-bib-0008" ref-type="ref">1975</xref>; Smithson et al., <xref rid="ajmga37842-bib-0020" ref-type="ref">2000</xref>; Skjei et al., <xref rid="ajmga37842-bib-0019" ref-type="ref">2007</xref>; Sirmaci et al., <xref rid="ajmga37842-bib-0018" ref-type="ref">2011</xref>; Youngs et al., <xref rid="ajmga37842-bib-0025" ref-type="ref">2011</xref>]. Other recognized features include seizures, cardiac abnormalities, and hearing loss [Brancati et al., <xref rid="ajmga37842-bib-0003" ref-type="ref">2006</xref>; Youngs et al., <xref rid="ajmga37842-bib-0025" ref-type="ref">2011</xref>; Ockeloen et al., <xref rid="ajmga37842-bib-0014" ref-type="ref">2015</xref>]. Heterozygous mutations in <italic toggle="yes">ANKRD11</italic> (ankyrin repeat domain‐containing protein 11) were shown to cause KBG syndrome [Sirmaci et al., <xref rid="ajmga37842-bib-0018" ref-type="ref">2011</xref>]. Deletions of 16q24 including <italic toggle="yes">ANKRD11</italic> were reported to lead to a similar phenotype [Willemsen et al., <xref rid="ajmga37842-bib-0023" ref-type="ref">2010</xref>; Isrie et al., <xref rid="ajmga37842-bib-0009" ref-type="ref">2012</xref>; Sacharow et al., <xref rid="ajmga37842-bib-0017" ref-type="ref">2012</xref>]. In 2006, the total number of cases reported worldwide was 45 [Brancati et al., <xref rid="ajmga37842-bib-0003" ref-type="ref">2006</xref>], but the advent of whole exome sequencing (ES) has increased recognition, including recent reports of over 25 new KBG patients [Ockeloen et al., <xref rid="ajmga37842-bib-0014" ref-type="ref">2015</xref>; Walz et al., <xref rid="ajmga37842-bib-0022" ref-type="ref">2015</xref>].</p><p>We established single gene analysis of <italic toggle="yes">ANKRD11</italic> (TS) as a diagnostic test at Bristol Genetics Laboratory in 2014 for patients considered to have KBG syndrome. Concurrently, the Deciphering Developmental Disorders study utilized ES to identify diagnoses for children with developmental delay and additional features [Wright et al., <xref rid="ajmga37842-bib-0024" ref-type="ref">2015</xref>]. Here, we describe clinical and molecular genetic findings in 31 previously unreported KBG patients and one adult who was previously reported as a child [Smithson et al., <xref rid="ajmga37842-bib-0020" ref-type="ref">2000</xref>], ascertained through both sources. We compare the phenotypic characteristics in each of our ascertainment groups and with patients reported by other authors. We alert clinicians to the key features of KBG syndrome including a wide fontanelle, which may be the first indication that an infant is affected. Data on older patients is presented, providing insight into the long‐term outcome of the condition. Recognition of this diagnosis in young adults has important implications for genetic counselling.</p></sec><sec id="ajmga37842-sec-0003"><title>METHODS</title><p>Patients were ascertained either via TS or ES [Wright et al., <xref rid="ajmga37842-bib-0024" ref-type="ref">2015</xref>] as above. In the TS group, a Clinical Geneticist in the UK (or New Zealand in one case) had suspected the diagnosis of KBG syndrome based on clinical features and sent a DNA sample to Bristol Genetics Laboratory for <italic toggle="yes">ANKRD11</italic> analysis. Consent for genetic testing was obtained at the time of sample collection. The ES group of children had been recruited to the DDD study because no clinical diagnosis had been made (20 patients from 10 of the 23 UK Clinical Genetic Centers). These children had a history of developmental delay/intellectual disability with or without additional features. DNA samples were collected as parent/child trios. Array CGH and ES were performed looking for copy number variation (CNV) and de novo variants. Variants were interrogated on the basis of link to phenotype and using standard in silico tools [Wright et al., <xref rid="ajmga37842-bib-0024" ref-type="ref">2015</xref>]. A DDD‐approved complementary analysis project (CAP) allowed us to access the exome data and phenotypes of all subjects identified with <italic toggle="yes">ANKRD11</italic> variants through the DDD Decipher website [Firth et al., <xref rid="ajmga37842-bib-0006" ref-type="ref">2009</xref>]. For both groups, clinicians responsible for the patients’ care were approached. Patient consent and phenotyping was initially undertaken by the referring clinician and reviewed by KL and SS. A deep phenotyping questionnaire was devised based on current literature. Broad subheadings in the questionnaire included growth, development, learning, vision and hearing, neurobehavioral, skeletal, dental, cardiac, gastrointestinal, immune, and other features. We paid particular attention to learning difficulties and behavioral phenotype which are often significant in KBG syndrome [Lo‐Castro et al., <xref rid="ajmga37842-bib-0012" ref-type="ref">2013</xref>].</p><p>Genomic DNA was received from an external laboratory or isolated from peripheral blood leukocytes using a Gentra Puregene cell kit (QIAGEN Ltd). Coding regions of the <italic toggle="yes">ANKRD11</italic> gene (13 exons including intron/exon boundaries extending to the branch sites) were amplified in 27 fragments using a MegaMix (MicroZone). Primers were designed to GenBank Reference Sequence <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="NM_013275.5">NM_013275.5</ext-link> using Primer3 software [Koressaar and Remm, <xref rid="ajmga37842-bib-0011" ref-type="ref">2007</xref>; Untergasser et al., <xref rid="ajmga37842-bib-0021" ref-type="ref">2012</xref>]. The large size of exon 9 (&gt;6 kb of coding sequence) required the design of 17 overlapping sequencing amplicons in order to cover the whole exon. The high GC content of the <italic toggle="yes">ANKRD11</italic> gene necessitated the use of a GC‐RICH (Roche) PCR system. Primer sequences are available on request.</p><p>M13 tagged bidirectional sequencing was undertaken using a BigDye Terminator v3.1 Cycle Sequencing Kit and 3730 DNA Genetic Analyzer (Applied Biosystems) with Mutation Surveyor DNA Variant Analysis Software v3.97 (Softgenetics). Alamut software v2.3.1 (Interactive Biosoftware, Rouen, France) was used to predict the effect of genetic variation. The software integrates PolyPhen‐2, Align GVGD and SIFT and five splice site prediction programs: SpliceSiteFinder, MaxEntScan, Human Splice Finder, NNSPLICE, and GeneSplicer. All DDD results were confirmed by Sanger sequencing either in our laboratory or locally.</p></sec><sec id="ajmga37842-sec-0004"><title>RESULTS</title><p>We studied 32 patients from 27 families in total. Thirteen patients were ascertained through our Bristol laboratory and for 12 (11 from the UK and one New Zealand) TS was undertaken. One additional patient had a microdeletion of 16p24.3 including <italic toggle="yes">ANKRD11</italic> identified by array CGH but was excluded from the study. Four patients were from one family (a father and three daughters). Twenty patients were ascertained through DDD including one family (a mother, son, and daughter).</p><p>All but two patients consented to clinical photographs. In our analysis of the clinical findings of KBG we initially considered our cohort separately. We then amalgamated our data with those previously published which enabled us to estimate the frequency of features in 100 patients (Fig. <xref rid="ajmga37842-fig-0001" ref-type="fig">1</xref>i and j). The wide age range in our cohort provided some insight into the developmental outcome and prognosis in KBG syndrome.</p><fig fig-type="Figure" xml:lang="en" id="ajmga37842-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Clinical features of KBG syndrome. (<bold>a–c</bold>) Bar charts show number of patients in each centile category for weight, head circumference, and height. (<bold>d</bold>) Box and whisker plot indicates age in months at which patients were first able to sit, walk, and speak first words (dots denote statistical outliers). (<bold>e–h</bold>) Bar charts demonstrate numbers of patients showing specific oral, skeletal, ocular anomalies, and feeding difficulties. (<bold>i–j</bold>) Tables compare the frequency of specified features in patients our cohort compared with cumulative data (ours and previously reported cases) and the frequency of features in the two ascertainment groups. In e,f, and i the bracketed numbers denotes the total number of patients in which the feature/data could be sought. (<bold>i</bold>)Cumulative data from Ockeloen et al. [<xref rid="ajmga37842-bib-0014" ref-type="ref">2015</xref>]; Busa et al. [<xref rid="ajmga37842-bib-0004" ref-type="ref">2015</xref>]; and Walz et al. [<xref rid="ajmga37842-bib-0022" ref-type="ref">2015</xref>].</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-1" position="float" orientation="portrait" xlink:href="AJMG-170-2835-g001.jpg"><permissions><copyright-holder>Copyright © 2016 Wiley Periodicals, Inc.</copyright-holder></permissions></graphic></fig><sec id="ajmga37842-sec-0005"><title>Facial Features</title><p>The facial features of our patients with KBG syndrome are shown in Figure <xref rid="ajmga37842-fig-0002" ref-type="fig">2</xref>a and b (ascertained through ES above and TS below). Subjective appraisal of the images confirmed the presence of characteristic facial features in some but not all patients. These included broad triangular face, short neck, wide or bushy eyebrows, often with synophrys, hypertelorism, prominent ears or dysplastic helices, bulbous nasal tip, prominent nasal bridge, long and smooth philtrum, and thin upper lip. We found that patients in the TS group were more likely to express several of these features. A few patients in the ES group could not be identified as having KBG syndrome on the basis of their facial features.</p><fig fig-type="Figure" xml:lang="en" id="ajmga37842-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Facial, dental and limb features in KBG syndrome. (<bold>a</bold>) Facial features of patients with KBG syndrome during infancy, childhood, and targeted testing (TS, below). (<bold>b</bold>) Evolution of the facial phenotype and profile of 3 patients with KBG syndrome during childhood and adolescence ascertained through TS (2 patients above) and TS (1 patient below). (<bold>c</bold>) Secondary dentition of patients with KBG showing macrodontia of central incisors, dental crowding, and extra teeth in some cases. The hands and feet show subtle brachydactyly and clinodactyly of fifth fingers. [Color figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://wileyonlinelibrary.com">http://wileyonlinelibrary.com</ext-link>].</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="AJMG-170-2835-g002.jpg"><permissions><copyright-holder>Copyright © 2016 Wiley Periodicals, Inc.</copyright-holder></permissions></graphic></fig></sec><sec id="ajmga37842-sec-0006"><title>Growth</title><p>The parameters of growth in our patients (Fig. <xref rid="ajmga37842-fig-0001" ref-type="fig">1</xref>a–c) are in keeping with the other reported cohorts [Kim et al., <xref rid="ajmga37842-bib-0010" ref-type="ref">2015</xref>; Ockeloen et al., <xref rid="ajmga37842-bib-0014" ref-type="ref">2015</xref>] and cumulative data showed the frequency of short stature (height &lt;3rd centile) was 40% (Fig. <xref rid="ajmga37842-fig-0001" ref-type="fig">1</xref>i).</p></sec><sec id="ajmga37842-sec-0007"><title>Perinatal Period</title><p>Few complications occurred in pregnancy and most 20‐week anomaly scans were normal apart from single instances of a single umbilical artery, an atrio‐ventricular septal defect (AVSD), placenta praevia, and decreased fetal movements. All babies reached a gestation of at least 36 weeks and the vast majority were delivered at term. Only two babies were breech presentation. Birthweights were all within normal parameters (2nd–98th centiles). Nineteen percent (6/32) of babies were reported to have significant feeding difficulties after birth with some requiring nasogastric tube‐feeding (Fig. <xref rid="ajmga37842-fig-0001" ref-type="fig">1</xref>h).</p></sec><sec id="ajmga37842-sec-0008"><title>Developmental Progress/Learning Difficulties</title><p>The ages at which milestones were reached was delayed (Fig. <xref rid="ajmga37842-fig-0001" ref-type="fig">1</xref>d), especially speech; most patients used their first single words between 2 and 3 years of age and one patient had only a few words aged 4. All children achieved walking and the oldest to do so was aged 3 years and 2 months. In no instances did patients lose skills or regress. Four patients attended a school for children with special needs and four went to a mainstream school but within a specified special needs unit (two within an autism unit). The rest attended mainstream school usually with a statement of educational needs and received variable one to one support within the classroom. Across the literature, 99% of patients had learning difficulties (Fig. <xref rid="ajmga37842-fig-0001" ref-type="fig">1</xref>i), but they could be very mild.</p></sec><sec id="ajmga37842-sec-0009"><title>Neurodevelopment/Behavior</title><p>Fourteen patients (43%) had seizures although the age of onset varied from infancy to mid‐teens. Seizure type was heterogeneous and included absences, grand mal, myoclonic jerks, and nocturnal seizures. Some patients without a diagnosis of epilepsy had staring episodes, infantile seizures, or febrile fits which resolved. Brain MRI scans were available in 13 children; 2 showed single abnormalities including mild periventricular leukomalacia with normal ventricles and an isolated dilated left ventricle. Two scans showed moderate enlargement of the cisterna magna with normal ventricles (one also showing atrophic changes). Only four children had a movement disorder including one with Tourette‐like tics. One adult had a wide‐based gait with apparent foot drop and involuntary flailing of the arms on walking. Eight children (25%) had a formal diagnosis of autistic spectrum disorder (ASD) and one more had some autistic features. Five patients had a diagnosis of attention deficit hyperactivity disorder (ADHD) and three others had mild symptoms in this spectrum.</p><p>Behavioral issues occurred in all but two of the patients; however, their nature was vary variable and in some cases mild. There were recurring themes, such as poor concentration, lack of attention span, and restless movement. Some patients had obsessions and could become fixated on a favorite object or routine or disliked change with behavior deteriorating at times of stress. Anxiety and shyness were reported in several patients associated with difficulty in understanding social situations and making friendships. In contrast, some parents noted a lack of stranger‐awareness and disinhibition in their children when interacting with others. Some patients were described as having a low anger threshold and a few had severely challenging behavior such as tantrums, inconsolable upset, and occasional aggressive outbursts. One patient had a diagnosis of oppositional defiant disorder. Other problems included a sensory processing disorder, rocking and flicking of elastic bands, a very unusual phenotype of echolalia‐imitation of an American accent, and autistic‐type behavior. Sleep disturbances were reported in six patients and the majority were resistant to melatonin. Two further patients had severe sleep disruption as babies which resolved with age. One child had sleep apnea which persisted after adenotonsillectomy.</p></sec><sec id="ajmga37842-sec-0010"><title>Ear, Nose, Throat, and Oral Cavity</title><p>The key dental findings in our study (Figs. <xref rid="ajmga37842-fig-0001" ref-type="fig">1</xref>e and <xref rid="ajmga37842-fig-0002" ref-type="fig">2</xref>c) included macrodontia<xref ref-type="fn" rid="ajmga37842-note-0007">1</xref> of upper incisors in most of our patients (23/27 with secondary dentition) and 82% of patients with KBG syndrome overall (Fig. <xref rid="ajmga37842-fig-0001" ref-type="fig">1</xref>i). Palatal abnormalities occurred in a quarter of patients (8/32); four had sub‐mucous cleft palate, two had bifid uvulas, one had velopharyngeal incompetence and one had a short palate necessitating two pharyngoplasties. Two further patients had hyper‐nasal speech, but neither was formally assessed by a palate team nor had a comprehensive examination under anaesthetic, which was the case for the majority of patients. We may therefore have underestimated the frequency of palatal abnormalities.</p><p>Permanent conductive hearing loss of varying degrees was reported in a quarter of patients (8/32), all of whom had a history of recurrent otitis media and/or tympanic membrane perforation treated with grommet insertion. A further seven reported recurrent middle ear infections without lasting hearing loss. One patient required tympanic membrane grafts at the age of 13 and another had sensorineural hearing loss in the context of a positive maternal family history.</p></sec><sec id="ajmga37842-sec-0011"><title>Skeleton</title><p>The most consistent findings were in the distal limbs including brachydactyly especially of the 5th fingers with striking clinodactyly (Fig. <xref rid="ajmga37842-fig-0001" ref-type="fig">1</xref>f). Hand function was normal. The feet were also affected with brachydactyly; often with wide spaces between the 1st and 2nd toes. Interestingly seven (22%) of patients had a large anterior fontanelle with delayed closure; in one patient it still remains patent aged 4.5 years. Ockeloen et al. [<xref rid="ajmga37842-bib-0014" ref-type="ref">2015</xref>] reported the same finding in patient 6 of their cohort. A further two patients were reported to have a very large fontanelle as a baby, but this did not persist. A skeletal survey was available in six patients and three of these revealed significant but non‐specific radiological signs. The first showed a copper‐beaten appearance of the skull with small anterior beaks on the vertebrae at the thoracolumbar junction. Another showed radial‐head dislocation with a wide carrying angle at the elbow, short distal phalanges, and a thoracic kyphosis. The third showed shortening of the pedicles of the lumbar vertebrae, brachycephaly, and a relatively long fibula on the side examined. A fused metopic suture was reported in one patient.</p></sec><sec id="ajmga37842-sec-0012"><title>Gastrointestinal System</title><p>Gastrointestinal problems were seen in several patients. Feeding difficulties were the most notable affecting eight patients. These started in the neonatal period and resolved in some cases (Fig. <xref rid="ajmga37842-fig-0001" ref-type="fig">1</xref>h) but continued in three cases. One girl, who failed to thrive required nasogastric feeding until the age of 4 years and her weight remained below the 0.4th centile at 13 years. One boy was unable to feed orally at the age of 4.5 years and is dependent on a gastrostomy tube (he also has a sensory processing disorder and autism). Gastro‐oesophageal reflux and severe constipation were also observed. One adult has a life‐long history of diarrhea and an abnormal lack of thirst which has resulted in two hospital admissions for dehydration. One requires a patch for continual drooling.</p></sec><sec id="ajmga37842-sec-0013"><title>Other Aspects of Phenotype</title><p>Half the patients (17/32) had eye abnormalities, most commonly strabismus and refractive errors (Fig. <xref rid="ajmga37842-fig-0001" ref-type="fig">1</xref>g). Congenital heart abnormalities occurred in 4/32 (13%), including a patent ductus arteriosus, an AVSD and two patients had small VSDs. One further patient had a structurally normal heart but second degree heart block on ECG (aged 6).</p><p>Many patients displayed mild hypertrichosis with thick hair, full eyebrows with lateral interruptions and mild synophrys (Fig. <xref rid="ajmga37842-fig-0002" ref-type="fig">2</xref>a and b). Skin abnormalities were found in several patients. One had a speckled hyperpigmented patch over his inguinal region. He also had two hair whorls on left and right sides of the occiput and a low V‐shaped posterior hairline. One patient had a large hyperpigmented patch on his left arm and another had an asymmetric hair line, a tendency to skin bruising, and delayed wound healing. One had keloid scarring with rapid‐growing thick hair and nails. Another had generalised ichthyosis and predominantly lower limb lymphoedema. Cutis marmorata was described in one patient. Dystrophic nails, particularly on the toes, occurred in 6/32 patients. Recurrent infections (largely respiratory) were described in 6/32 patients although immune function studies did not detect any specific deficit. Five patients had surgery for cryptorchidism and one also had an inguinal hernia repair.</p></sec><sec id="ajmga37842-sec-0014"><title>Adulthood</title><p>Eight of the cohort were aged 18 or over including a parent identified after his daughter was diagnosed. He reported slow educational progress at primary school and did not achieve qualifications but was living independently as a father of three with no external help. Similarly, a mother diagnosed after KBG syndrome was identified in her son through DDD, described mild learning difficulties but was living independently, working in a kitchen and looking after her family without support. Her son achieved a few GCSE‐level qualifications and was living in his own accommodation with some help from social services. The other five young adults were all living with their parents who considered it was unlikely they would be able to live alone, although they had many skills such as being able to operate computers. Two were embarking on college courses at the time of the study.</p></sec><sec id="ajmga37842-sec-0015"><title>Genotype–Phenotype Correlations</title><p>Within our cohort, we identified 20 different <italic toggle="yes">ANKRD11</italic> mutations in 32 patients with KBG syndrome (Supplementary Table SI). All mutations reside within exon 9, consistent with it containing &gt;80% of the coding sequence and are predicted to cause truncation of the ANKRD11 protein concurring with the mechanism of pathogenicity previously described [Walz et al., <xref rid="ajmga37842-bib-0022" ref-type="ref">2015</xref>]. Of the 20 mutations we identified, 18 were previously unreported. Previously described mutations were found in eight patients (four from the same family) with c.1903_1907del [Ockeloen et al., <xref rid="ajmga37842-bib-0014" ref-type="ref">2015</xref>; Parenti et al., <xref rid="ajmga37842-bib-0015" ref-type="ref">2016</xref>] (Table <xref rid="ajmga37842-tbl-0001" ref-type="table-wrap">I</xref>a) and one patient with c.2398_2401del [Walz et al., <xref rid="ajmga37842-bib-0022" ref-type="ref">2015</xref>]. Novel recurrent mutations identified in this study included a deletion in three patients, c.2408‐2412del and a nonsense mutation, c.1801C&gt;T, p.(Arg601*) in two patients (Table <xref rid="ajmga37842-tbl-0001" ref-type="table-wrap">I</xref>b). The additional novel mutations occurred in single patients. Comparison of the phenotypes of all reported cases of recurrent mutations did not highlight specific correlations, although we noted that none of the eight c.1903_1907del patients had hearing loss or severe otitis media which was common in the cohort overall.</p><table-wrap id="ajmga37842-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table I</label><caption><p>Recurrent <italic toggle="yes">ANKRD11</italic> Mutations</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead valign="bottom"><tr><th colspan="12" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Recurrent <italic toggle="yes">ANKRD11</italic> mutations c.1903_1907del, p.(Lys635Glnfs<xref ref-type="fn" rid="ajmga37842-note-0004">
+<sup>*</sup>
+</xref>26)<xref ref-type="fn" rid="ajmga37842-note-0005">
+<sup>a</sup>
+</xref>
+</th></tr><tr><th align="left" valign="bottom" rowspan="1" colspan="1">Patient</th><th align="center" valign="bottom" rowspan="1" colspan="1">19 (9y 6m) M DDD</th><th align="center" valign="bottom" rowspan="1" colspan="1">26 (9y 9m) F</th><th align="center" valign="bottom" rowspan="1" colspan="1">4 (13y 3m) M DDD</th><th align="center" valign="bottom" rowspan="1" colspan="1">5 (21y) F<xref ref-type="fn" rid="ajmga37842-note-0004">
+<sup>*</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">6 (19y) F<xref ref-type="fn" rid="ajmga37842-note-0004">
+<sup>*</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">7 (12y) F<xref ref-type="fn" rid="ajmga37842-note-0004">
+<sup>*</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">8 (47y) M<xref ref-type="fn" rid="ajmga37842-note-0004">
+<sup>*</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">33 (3y 3m) M DDD</th><th align="center" valign="bottom" rowspan="1" colspan="1">Ockeloen et al. [<xref rid="ajmga37842-bib-0014" ref-type="ref">2015</xref>] pt 6 (38y) F</th><th align="center" valign="bottom" rowspan="1" colspan="1">Ockeloen et al. [<xref rid="ajmga37842-bib-0014" ref-type="ref">2015</xref>] pt 10 (11y) M</th><th align="center" valign="bottom" rowspan="1" colspan="1">Walz et al. [<xref rid="ajmga37842-bib-0022" ref-type="ref">2015</xref>] pt B (13y) M</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Macrodontia/other dental abnormalities</td><td align="center" rowspan="1" colspan="1">+; overcrowding</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">+; EH; overcrowding</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+; overcrowding</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">− (primary dentician)</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+; additional dental problems</td><td align="center" rowspan="1" colspan="1">+</td></tr><tr><td align="left" rowspan="1" colspan="1">Short stature</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">− (on GH)</td><td align="center" rowspan="1" colspan="1">+</td></tr><tr><td align="left" rowspan="1" colspan="1">Learning difficulties</td><td align="center" rowspan="1" colspan="1">+; mainstream school</td><td align="center" rowspan="1" colspan="1">+; SEN 15hrs/wk</td><td align="center" rowspan="1" colspan="1">SEN 25 hr 1:1</td><td align="center" rowspan="1" colspan="1">Moderate</td><td align="center" rowspan="1" colspan="1">No qualifications, limited literacy</td><td align="center" rowspan="1" colspan="1">Moderate</td><td align="center" rowspan="1" colspan="1">Some concerns raised at school</td><td align="center" rowspan="1" colspan="1">SEN; mainstream school</td><td align="center" rowspan="1" colspan="1">Moderate</td><td align="center" rowspan="1" colspan="1">Mild; dyslexia</td><td align="center" rowspan="1" colspan="1">+</td></tr><tr><td align="left" rowspan="1" colspan="1">Skeletal abnormalities</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">2, 3 toe syndactyly</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">Noted to have small feet UK size 6</td><td align="center" rowspan="1" colspan="1">Bilateral cervical ribs</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td></tr><tr><td align="left" rowspan="1" colspan="1">Delayed bone age</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td></tr><tr><td align="left" rowspan="1" colspan="1">Hand anomalies</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ocular</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">+; blepharitis</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td></tr><tr><td align="left" rowspan="1" colspan="1">Hearing Loss</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">unknown</td></tr><tr><td align="left" rowspan="1" colspan="1">Neurological</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">+; lamotrigine</td><td align="center" rowspan="1" colspan="1">Nocturnal seziures</td><td align="center" rowspan="1" colspan="1">Seizures</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">Seizures</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">Poor short term memory</td><td align="center" rowspan="1" colspan="1">−</td></tr><tr><td align="left" rowspan="1" colspan="1">Behavioural abnormalities</td><td align="center" rowspan="1" colspan="1">Anxiety, behaviour worse when stressed</td><td align="center" rowspan="1" colspan="1">“lovely behaviour”</td><td align="center" rowspan="1" colspan="1">Anxious</td><td align="center" rowspan="1" colspan="1">Yes, unspecified</td><td align="center" rowspan="1" colspan="1">Severe–tantrums, oppositional defiant disorder</td><td align="center" rowspan="1" colspan="1">Yes, toileting issues</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">Problems with attention and concentration</td><td align="center" rowspan="1" colspan="1">Compulsive behaviour</td><td align="center" rowspan="1" colspan="1">Temper tantrums, impaired communication skills</td><td align="center" rowspan="1" colspan="1">unknown</td></tr><tr><td align="left" rowspan="1" colspan="1">Palate</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">assymetric</td><td align="center" rowspan="1" colspan="1">unknown</td></tr><tr><td align="left" rowspan="1" colspan="1">Heart</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">Early VSD</td><td align="center" rowspan="1" colspan="1">AVSD</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">unknown</td></tr><tr><td align="left" rowspan="1" colspan="1">Other</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Hypermobile in some joints</td><td align="center" rowspan="1" colspan="1">Repetitive movements</td><td align="center" rowspan="1" colspan="1">Dysplastic 3,4,5 toenails, indented earlobes</td><td align="center" rowspan="1" colspan="1">DCF</td><td align="center" rowspan="1" colspan="1">Severe constipation</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">Cryptorchidism, continual drooling;</td><td align="center" rowspan="1" colspan="1">Large fontanelle at birth</td><td align="center" rowspan="1" colspan="1">Slightly enlarged ventricles</td><td align="center" rowspan="1" colspan="1">−</td></tr></tbody></table><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead valign="bottom"><tr><th colspan="7" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Recurrent <italic toggle="yes">ANKRD11</italic> mutations c.2408_2412 del, p.(Lys803Argfs<xref ref-type="fn" rid="ajmga37842-note-0004">
+<sup>*</sup>
+</xref>5)<xref ref-type="fn" rid="ajmga37842-note-0006">
+<sup>b</sup>
+</xref>
+</th></tr><tr><th align="left" valign="bottom" rowspan="1" colspan="1">Patient</th><th align="center" valign="bottom" rowspan="1" colspan="1">1 (6y 4m) F DDD</th><th align="center" valign="bottom" rowspan="1" colspan="1">18 (6y 10m) M DDD</th><th align="center" valign="bottom" rowspan="1" colspan="1">20 (13y 3m) F DDD</th><th align="center" valign="bottom" rowspan="1" colspan="1">13 (17y) F DDD</th><th colspan="2" align="center" valign="bottom" rowspan="1">27 (23y 1m) M</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Macrodontia/other dental abnormalities</td><td align="center" rowspan="1" colspan="1">Multiple extractions</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+; delayed eruption</td><td align="center" rowspan="1" colspan="1">−; malocclusion</td><td colspan="2" align="center" rowspan="1">+</td></tr><tr><td align="left" rowspan="1" colspan="1">Short stature</td><td align="center" rowspan="1" colspan="1">+ (&lt;0.4th)</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td colspan="2" align="center" rowspan="1">+</td></tr><tr><td align="left" rowspan="1" colspan="1">Learning difficulties</td><td align="center" rowspan="1" colspan="1">Maximum SEN</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+; SEN, moderate ID</td><td align="center" rowspan="1" colspan="1">some extra help at school</td><td colspan="2" align="center" rowspan="1">+; SEN; no qualifications</td></tr><tr><td align="left" rowspan="1" colspan="1">Skeletal abnormalities</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td><td colspan="2" align="center" rowspan="1">−</td></tr><tr><td align="left" rowspan="1" colspan="1">Delayed bone age</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">+</td><td colspan="2" align="center" rowspan="1">+ aged 7</td></tr><tr><td align="left" rowspan="1" colspan="1">Hand anomalies</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">+</td><td colspan="2" align="center" rowspan="1">+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ocular</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">Corneal ulcers</td><td align="center" rowspan="1" colspan="1">+;</td><td align="center" rowspan="1" colspan="1">−</td><td colspan="2" align="center" rowspan="1">+</td></tr><tr><td align="left" rowspan="1" colspan="1">Hearing Loss</td><td align="center" rowspan="1" colspan="1">+; TM perforations; x1grommet; hearing aid</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td colspan="2" align="center" rowspan="1">Bilat grommets</td></tr><tr><td align="left" rowspan="1" colspan="1">Neurological</td><td align="center" rowspan="1" colspan="1">Mild PVL</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">+; abscences</td><td align="center" rowspan="1" colspan="1">−</td><td colspan="2" align="center" rowspan="1">Movement disorder</td></tr><tr><td align="left" rowspan="1" colspan="1">Behavioural abnormalities</td><td align="center" rowspan="1" colspan="1">Autistic like</td><td align="center" rowspan="1" colspan="1">Sensory processing disorder, “challenging”</td><td align="center" rowspan="1" colspan="1">Autistic like; obsessions</td><td align="center" rowspan="1" colspan="1">−</td><td colspan="2" align="center" rowspan="1">Challenging; no social awareness, outbursts. Stress/anxiety</td></tr><tr><td align="left" rowspan="1" colspan="1">Palate</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">−</td><td colspan="2" align="center" rowspan="1">−</td></tr><tr><td align="left" rowspan="1" colspan="1">Heart</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">−</td><td align="center" rowspan="1" colspan="1">Small apical VSD</td><td align="center" rowspan="1" colspan="1">−</td><td colspan="2" align="center" rowspan="1">−</td></tr><tr><td align="left" rowspan="1" colspan="1">Other</td><td align="center" rowspan="1" colspan="1">DCF;ant. placed anus</td><td align="center" rowspan="1" colspan="1">Fused metopic suture, cryotrchidism</td><td align="center" rowspan="1" colspan="1">Severe feeding issues; infections, lacrimal duct surgery; pain insensitivity,</td><td align="center" rowspan="1" colspan="1">Puffy feet as neonate</td><td colspan="2" align="center" rowspan="1">Hypermobile elbows. Keloid scarring.</td></tr></tbody></table><table-wrap-foot><fn id="ajmga37842-note-0001"><p>SEN, statement of education need; PVL, periventricular leukomalacia on MRI; ant, anterior; AF, anterior fontanelle; dn, de novo; DCF, delayed closure of fontanelle age &gt;3y; EH, enamel hypoplasia; AF, anterior fontanelle; TM, tympanic membrane; SNHL(mat), sensorineural hearing loss (maternal history); SPC, single palmar crease.</p></fn><fn id="ajmga37842-note-0002"><p>Skeletal abnormalities: costovertebral abnormalities; postnatal short stature, &lt;2nd centile. Hand abnormalities to include—brachydactyly, 5th finger clinodactyly. Ocular abnormalities = strabismus, hypermetropia, astigmatism; myopia. Palate to include: cleft lip and or palate; submucous cleft, velopharyngeal insufficiency; bifid uvula.</p></fn><fn id="ajmga37842-note-0003"><p>If investigations have not been done designated as “−”.</p></fn><fn id="ajmga37842-note-0004"><label><sup>*</sup></label><p>Patient 5–8 members of one family. **Patient 29–31 members of one family.</p></fn><fn id="ajmga37842-note-0005"><label><sup>a</sup></label><p>Comparison of phenotypic findings in seven patients with recurrent c.1903_1907del (5–7 are daughters of eight) with those reported with the same mutation [Ockeloen et al., <xref rid="ajmga37842-bib-0014" ref-type="ref">2015</xref>; Walz et al., <xref rid="ajmga37842-bib-0022" ref-type="ref">2015</xref>].</p></fn><fn id="ajmga37842-note-0006"><label><sup>b</sup></label><p>Comparison of phenotypic findings in three patients with c.2408_2412del and in two patients with c.1801C&gt;T.</p></fn></table-wrap-foot><permissions><copyright-holder>© 2016 Wiley Periodicals, Inc.</copyright-holder></permissions></table-wrap><p>In addition to the patients in this study, we have analyzed additional samples for patients who were referred for TS or for validation after DDD. In this group an additional six mutations have been identified, two of which are of interest because they are outside exon 9. The first, a de novo frameshift in exon 6, occurred in a patient (DDD266108) with developmental delay, speech impairment, clinodactyly, anisocoria, and unusual face shape. The other, a nonsense mutation in exon 4, occurred in a child and mother with typical features of KBG Syndrome.</p></sec></sec><sec id="ajmga37842-sec-0016"><title>DISCUSSION</title><p>This study of British patients with a molecular genetic diagnosis of KBG syndrome is the largest to date, bringing the total number of published cases to &gt;100. Our findings show that the characteristic facial phenotype of KBG syndrome can be recognized as indicated in previous reports [Herrmann et al., <xref rid="ajmga37842-bib-0008" ref-type="ref">1975</xref>; Smithson et al., <xref rid="ajmga37842-bib-0020" ref-type="ref">2000</xref>; Brancati et al., <xref rid="ajmga37842-bib-0003" ref-type="ref">2006</xref>; Skjei et al., <xref rid="ajmga37842-bib-0019" ref-type="ref">2007</xref>; Sirmaci et al., <xref rid="ajmga37842-bib-0018" ref-type="ref">2011</xref>; Youngs et al., <xref rid="ajmga37842-bib-0025" ref-type="ref">2011</xref>; Ockeloen et al., <xref rid="ajmga37842-bib-0014" ref-type="ref">2015</xref>]. On review of a panel of patient photographs, (Fig. <xref rid="ajmga37842-fig-0002" ref-type="fig">2</xref>) we identified in some but not all patients a triangular face, almond‐shaped palpebral fissures which may slant upwards, synophrys, prominent ears, a high nasal bridge and bulbous nasal tip, prominent cheekbones, a smooth philtrum with thin upper lip, prominent corners of the mouth, and facial hypertrichosis/low hairlines. Our impression from available data is that the features can evolve in childhood and become more obvious in time. We agree with other authors that while some KBG patients can be recognized by gestalt, others may resemble Cornelia de Lange syndrome (CDLS). Ansari et al. [<xref rid="ajmga37842-bib-0001" ref-type="ref">2014</xref>] found that 3/163 CDLS‐like patients had <italic toggle="yes">ANKRD11</italic> mutations and Busa et al. [<xref rid="ajmga37842-bib-0004" ref-type="ref">2015</xref>] reported on a French cohort of 20 mutation/deletion cases and commented that the facial features were reminiscent of CDLS. Parenti et al. [<xref rid="ajmga37842-bib-0015" ref-type="ref">2016</xref>] also found an overlap in phenotyping and advised <italic toggle="yes">ANKRD11</italic> analysis for CDLS mutation negative patients. In our patients, we observed some facial similarities with CDLS, particularly the appearance of the eyebrows and eyelashes.</p><p>When we compared the facial phenotypes of patients in the two diagnostic pathways, we observed that in the targeted group the gestalt was present in a higher proportion of cases than in the DDD group, where it was only clear in three. In some patients, we considered that that the specific facial features were not present, consistent with the high ascertainment from the DDD study (19/32 cases).</p><p>In 22% of patients, we found a wide anterior fontanelle with delayed closure and speculate this may contribute to the triangular face shape in KBG syndrome. In some cases this was the presenting feature and led to consideration of cleidocranial dysostosis (MIM # 119600). Furthermore, delayed closure of the anterior fontanelle is one of the most distinctive features according to the Decipher gene browser view for <italic toggle="yes">ANKRD11</italic>. Other conditions with cranial involvement and a similarly broad forehead include Robinow syndrome (MIM # 180700) which was investigated in one patient in this study. Five of the patients were referred for investigation of possible craniosynostosis on the basis of the broad forehead and brachycephaly, but no evidence of fused cranial sutures was found. Although, patients with KBG syndrome can be relatively short in stature, we did not find evidence of a generalised skeletal dysplasia. The most consistent finding was brachydactyly with short tubular bones in the hands and feet radiographically. One of our patients (13) has been treated with growth hormone and some success has been reported elsewhere [Reynaert et al., <xref rid="ajmga37842-bib-0016" ref-type="ref">2015</xref>].</p><p>Our study clearly shows a predisposition for recurrent otitis media in KBG syndrome. This is important to identify and treat to reduce hearing loss and optimise speech development. We also identified palatal abnormalities/dysfunction in a quarter of patients, which may be missed without specialist assessment. Based on the findings of this study and others, we recommend some key measures for all patients with a new diagnosis of KBG syndrome (summarized in Table <xref rid="ajmga37842-tbl-0002" ref-type="table-wrap">II</xref>) to assist pediatric and other colleagues involved in the care of patients.</p><table-wrap id="ajmga37842-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table II</label><caption><p>Recommendations for Clinical Management of Patients With KBG Syndrome</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><thead valign="bottom"><tr><th colspan="2" align="center" valign="bottom" rowspan="1">Recommended investigations/follow up</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Diagnosis</td><td align="left" rowspan="1" colspan="1">Molecular testing <italic toggle="yes">ANKRD11</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Array CGH for 16q24 microdeletion if KBG phenotype and <italic toggle="yes">ANKRD11</italic> sequencing normal</td></tr><tr><td align="left" rowspan="1" colspan="1">Care coordinated by key clinician</td><td align="left" rowspan="1" colspan="1">Hospital or community paediatrician for children and GP for adults</td></tr><tr><td align="left" rowspan="1" colspan="1">Investigations to consider in all patients</td><td align="left" rowspan="1" colspan="1">Echocardiogram</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Palatal assessment with specialist team</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Hearing and vision assessment</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Specialist dental review</td></tr><tr><td align="left" rowspan="1" colspan="1">Referrals and on‐going surveillance that may be required</td><td align="left" rowspan="1" colspan="1">Neurology for seizures and movement disorders</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Cardiology if heart lesion identified</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Dietician for feeding issues</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Endocrinology for investigation of short stature if present</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Surgery for cryptorchidism and hernia</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Respiratory/sleep studies for apnoea</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">ENT/audiology for recurrent otitis media and/or hearing loss</td></tr><tr><td align="left" rowspan="1" colspan="1">Management of learning and behaviour</td><td align="left" rowspan="1" colspan="1">Paediatric MDT assessment for developmental delay, ASD/ADHD and complex behaviour patterns</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Educational support where required</td></tr><tr><td align="left" rowspan="1" colspan="1">Investigations that may be indicated in individual patients</td><td align="left" rowspan="1" colspan="1">Skeletal survey/assessment of bone age</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Renal ultrasound</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">MRI brain scan</td></tr></tbody></table><permissions><copyright-holder>© 2016 Wiley Periodicals, Inc.</copyright-holder></permissions></table-wrap><p>All patients in this study had a mutation in <italic toggle="yes">ANKRD11</italic>, a member of a family of Ankyrin repeat containing cofactors described a decade ago [Zhang et al., <xref rid="ajmga37842-bib-0026" ref-type="ref">2004</xref>] which is expressed in a wide variety of tissues including the brain. It is implicated in activation of transcription by interaction with p160 coactivator and nuclear receptor complex by recruiting histone deacetylases [Sirmaci et al., <xref rid="ajmga37842-bib-0018" ref-type="ref">2011</xref>]. This may account for the pleiotropic effects of <italic toggle="yes">ANKRD11</italic> alterations. Subsequently, Ankrd11 has been shown to be a crucial chromatin regulator that controls histone acetylation and gene expression during neural development [Gallagher et al., <xref rid="ajmga37842-bib-0007" ref-type="ref">2015</xref>]. This provides a likely explanation for the widespread finding of variable learning difficulties and other cognitive dysfunction in our cohort. Yoda mice, heterozygous for a missense mutation in <italic toggle="yes">ankrd11</italic> show craniofacial anomalies, wide skulls, kyphoscoliosis, and reduced bone mineral density, but no other costovertebral anomalies or macrodontia [Sirmaci et al., <xref rid="ajmga37842-bib-0018" ref-type="ref">2011</xref>]. The precise role of <italic toggle="yes">ANKRD11</italic> in bone formation and modelling is also currently unknown.</p><p>Like other authors, we did not establish a predictive value for specific mutations, but it is possible that c.1903_1907del may be associated with a relatively mild phenotype with respect to ear infections and hearing loss and further work will be required to clarify this. This lack of genotype–phenotype correlation suggests that the variable nature of the KBG syndrome cannot be attributed to the position of truncation of the protein. This supports a common mechanism of pathogenicity in which truncating mutations in the C terminal domain would be expected to affect protein degradation [Walz et al., <xref rid="ajmga37842-bib-0022" ref-type="ref">2015</xref>]. Comparison of the phenotypes in patients 5–8 and 29–31 demonstrate intra‐familial variability and variable penetrance.</p><p>In addition to comparing the facial features, we revisited the whole phenotype in the two ascertainment groups. If sufficient characteristics are present, such as macrodontia in a child with developmental/speech delay, or learning difficulties, it is likely the diagnosis of KBG syndrome will be considered and TS initiated. It is clear from this study that the presentation is variable and the diagnosis can be missed [Ashraf et al., <xref rid="ajmga37842-bib-0002" ref-type="ref">2015</xref>], especially in infants and young children. For KBG, ES methodology revealed that a non‐specific <italic toggle="yes">ANKRD11</italic>‐related phenotype exists, as found for other conditions [Need et al., <xref rid="ajmga37842-bib-0013" ref-type="ref">2012</xref>]. To date (January 2016), in addition to those reported here, 14 further patients with a variant in <italic toggle="yes">ANKRD11</italic> have been identified by the DDD study (32 intragenic SNV/indels and one intragenic deletion in the first 4294 trios). This is consistent with our finding that the gestalt can be unclear and easily missed.</p><p>Skjei et al. [<xref rid="ajmga37842-bib-0019" ref-type="ref">2007</xref>] suggested diagnostic criteria for KBG syndrome which required at least 4/8 features including delayed bone age and costovertebral anomalies to be present. Ockeloen et al. [<xref rid="ajmga37842-bib-0014" ref-type="ref">2015</xref>] suggested that only 3/8 may be necessary based on their Dutch cohort. However, in our experience and in previous reports, many patients have not had an estimation of bone age or skeletal survey as they were not clinically indicated. Furthermore, despite consensus regarding the gestalt of KBG, our data demonstrate that the facial features can be very subtle or unrecognizable. We have therefore, devised a diagnostic aid for KBG syndrome (Fig. <xref rid="ajmga37842-fig-0003" ref-type="fig">3</xref>) which does not rely on the original features‐this would have identified all but one (patient 22 who is notably atypical in his overgrowth parameters) in our cohort. DDD has detected some mild cases with few features and colleagues who are experienced in clinical dysmorphology did not consider KBG syndrome in their differential diagnosis (personal communications).</p><fig fig-type="Figure" xml:lang="en" id="ajmga37842-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Diagnostic aid for KBG syndrome.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="AJMG-170-2835-g003.jpg"><permissions><copyright-holder>Copyright © 2016 Wiley Periodicals, Inc.</copyright-holder></permissions></graphic></fig></sec><sec id="ajmga37842-sec-0017"><title>CONCLUSIONS</title><p>This study is the largest to date of patients with KBG syndrome. Detailed phenotyping has provided data on the range of physical features in this condition including wide anterior fontanelle with delayed closure, not previously described. We report on the significant range of developmental and behavioral problems that affect patients. The presentation of KBG may be non‐specific and the diagnosis made for the first time through ES; therefore, we recommend that <italic toggle="yes">ANKRD11</italic> is included in gene panels used to investigate developmental delay. KBG syndrome is emerging as a Mendelian cause of learning difficulties with important implications for genetic counselling given the autosomal dominant inheritance of this condition. We have devised a revised diagnostic aid for clinical use and suggest clinical investigations and follow up that are likely to improve patient care.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" position="float" orientation="portrait"><p>Additional supporting information may be found in the online version of this article at the publisher's web‐site.</p></supplementary-material><supplementary-material content-type="local-data" position="float" orientation="portrait"><caption><p>Supporting Data S1.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AJMG-170-2835-s001.tif" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" position="float" orientation="portrait"><caption><p>Supporting Data S2.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AJMG-170-2835-s002.TIF" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" position="float" orientation="portrait"><caption><p>Supporting Data S3.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AJMG-170-2835-s003.TIF" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" position="float" orientation="portrait"><caption><p>Supporting Data S4.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AJMG-170-2835-s004.TIF" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ajmga37842-sec-0018"><title>ACKNOWLEDGMENTS</title><p>We thank the patients and families for their helpful participation in this work and all colleagues who have contributed to the data presented here. The DDD study presents independent research commissioned by the Health Innovation Challenge Fund [grant number HICF‐1009‐003], a parallel funding partnership between the Wellcome Trust and the Department of Health, and the Wellcome Trust Sanger Institute [grant number WT098051]. The views expressed in this publication are those of the author(s) and not necessarily those of the Wellcome Trust or the Department of Health. The study has UK Research Ethics Committee approval (10/H0305/83, granted by the Cambridge South REC, and GEN/284/12 granted by the Republic of Ireland REC). The research team acknowledges the support of the National Institute for Health Research, through the Comprehensive Clinical Research Network.</p></ack><fn-group><title>Endnotes</title><fn id="ajmga37842-note-0007"><label>1</label><p>It is acceptable to assess macrodontia subjectively for apparently increased maximum width of the tooth; or objectively by measuring mesiodistal tooth diameter (width) more than 2 SD above mean for age.[Carey et al., <xref rid="ajmga37842-bib-0005" ref-type="ref">2009</xref>]. In our cohort macrodontia was assessed subjectively by the referring clinician and then again on review of the images.</p></fn></fn-group><ref-list id="ajmga37842-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="ajmga37842-bib-0001"><mixed-citation publication-type="journal" id="ajmga37842-cit-0001">
+<string-name name-style="western">
+<surname>Ansari</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Poke</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ferry</surname>
+<given-names>Q</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Williamson</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Aldridge</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Meynert</surname>
+<given-names>AM</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bengani</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Yee Chan</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kayserili</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Avci</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hennekam</surname>
+<given-names>RCM</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lampe</surname>
+<given-names>AK</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Redeker</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Homfray</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ross</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Falkenberg Smeland</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mansour</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Parker</surname>
+<given-names>MJ</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cook</surname>
+<given-names>JA</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Splitt</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fisher</surname>
+<given-names>RB</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fryer</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Magee</surname>
+<given-names>AC</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wilkie</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Barnicoat</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Brady</surname>
+<given-names>AF</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cooper</surname>
+<given-names>NS</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mercer</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Deshpande</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bennett</surname>
+<given-names>CP</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pilz</surname>
+<given-names>DT</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ruddy</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cilliers</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>DS</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Josifova</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rosser</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>EM</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wakeling</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kinning</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Flinter</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Girisha</surname>
+<given-names>KM</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cox</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Firth</surname>
+<given-names>HV</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kingstn</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wee</surname>
+<given-names>JS</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hurst</surname>
+<given-names>JA</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Clayton‐Smith</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tolmie</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Vogt</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tatton‐Brown</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chandler</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Prescott</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Behnam</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McEntagart</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Davidson</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lynch</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sisodiya</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mehta</surname>
+<given-names>SG</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McKee</surname>
+<given-names>SA</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mohammed</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Holden</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Park</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Holder</surname>
+<given-names>SE</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Harrison</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McConnell</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lam</surname>
+<given-names>WK</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Green</surname>
+<given-names>AJ</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Donnai</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bitner‐Glindzicz</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Donnelly</surname>
+<given-names>DE</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Nellaker</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Taylor</surname>
+<given-names>MS</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fitzpatrick</surname>
+<given-names>DR</given-names>
+</string-name>. 
+<year>2014</year>
+<article-title>Genetic heterogeneity in Cornelia de Lange syndrome (CdLS) and CdLS‐like phenotypes with observed and predicted levels of mosaicism</article-title>. 
+<source xml:lang="en">J Med Genet</source>
+<volume>51</volume>:<fpage>659</fpage>–<lpage>668</lpage>.
+<pub-id pub-id-type="pmid">25125236</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jmedgenet-2014-102573</pub-id><pub-id pub-id-type="pmcid">PMC4173748</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0002"><mixed-citation publication-type="journal" id="ajmga37842-cit-0002">
+<string-name name-style="western">
+<surname>Ashraf</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Irving</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Canham</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Holder</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Foulds</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Magee</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McConnell</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fisher</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McEntagart</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tolmie</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Joss</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Clayton‐Smith</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Study</surname>
+<given-names>DDD</given-names>
+</string-name>. 
+<year>2015</year>
+<article-title>KBG syndrome: A DDD front‐runner</article-title>? 
+<source xml:lang="en">Eur Soc Hum Genet Abstract</source> PM08 38 <fpage>159</fpage>.
+</mixed-citation></ref><ref id="ajmga37842-bib-0003"><mixed-citation publication-type="journal" id="ajmga37842-cit-0003">
+<string-name name-style="western">
+<surname>Brancati</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sarkozy</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dallapiccola</surname>
+<given-names>B</given-names>
+</string-name>. 
+<year>2006</year>
+<article-title>KBG syndrome</article-title>. 
+<source xml:lang="en">Orphanet J Rare Dis</source>
+<volume>12</volume>:<fpage>1</fpage>–<lpage>50</lpage>.
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1750-1172-1-50</pub-id><pub-id pub-id-type="pmcid">PMC1764006</pub-id><pub-id pub-id-type="pmid">17163996</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0004"><mixed-citation publication-type="journal" id="ajmga37842-cit-0004">
+<string-name name-style="western">
+<surname>Busa</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tessier</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Riccardi</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jacquette</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Genevieve</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gatinois</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lacombe</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Michaud</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rossi</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lebreton</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Leheup</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Vincent‐Delorme</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Delahaye</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Van Maldergem</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cacciagli</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Scheffer</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Saugier‐Weber</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Goldenburg</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Philip</surname>
+<given-names>N</given-names>
+</string-name>. 
+<year>2015</year>
+<article-title>KBG syndrome: A series of 20 French patients</article-title>. 
+<source xml:lang="en">Eur Soc Hum Genet Abstract</source> PS11 79 <fpage>223</fpage>.
+</mixed-citation></ref><ref id="ajmga37842-bib-0005"><mixed-citation publication-type="journal" id="ajmga37842-cit-0005">
+<string-name name-style="western">
+<surname>Carey</surname>
+<given-names>JC</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cohen</surname>
+<given-names>MM</given-names>, <suffix>Jr</suffix>
+</string-name>, 
+<string-name name-style="western">
+<surname>Curry</surname>
+<given-names>CJR</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Devriendt</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Holmes</surname>
+<given-names>LB</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Verloes</surname>
+<given-names>A</given-names>
+</string-name>. 
+<year>2009</year>
+<article-title>Elements of morphology: Standard terminology for the lips, mouth, and oral region</article-title>. 
+<source xml:lang="en">Am J Med Genet Part A</source>
+<volume>149A</volume>:<fpage>77</fpage>–<lpage>92</lpage>.
+<pub-id pub-id-type="pmid">19125428</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ajmg.a.32602</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0006"><mixed-citation publication-type="journal" id="ajmga37842-cit-0006">
+<string-name name-style="western">
+<surname>Firth</surname>
+<given-names>HV</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Richards</surname>
+<given-names>SM</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bevan</surname>
+<given-names>AP</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Clayton</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Corpas</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rajan</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Van Vooren</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Moreau</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pettett</surname>
+<given-names>RM</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Carter</surname>
+<given-names>NP</given-names>
+</string-name>. 
+<year>2009</year>
+<article-title>DECIPHER: Database of chromosomal imbalance and phenotype in humans using ensembl resources</article-title>. 
+<source xml:lang="en">Am J Hum Genet</source>
+<volume>84</volume>:<fpage>524</fpage>–<lpage>533</lpage>.
+<pub-id pub-id-type="pmid">19344873</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajhg.2009.03.010</pub-id><pub-id pub-id-type="pmcid">PMC2667985</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0007"><mixed-citation publication-type="journal" id="ajmga37842-cit-0007">
+<string-name name-style="western">
+<surname>Gallagher</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Voronova</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zander</surname>
+<given-names>MA</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cancino</surname>
+<given-names>GI</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bramall</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Krause</surname>
+<given-names>MP</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Abad</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tekin</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Neilsen</surname>
+<given-names>PM</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Callen</surname>
+<given-names>DF</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Scherer</surname>
+<given-names>SW</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Keller</surname>
+<given-names>GM</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kaplan</surname>
+<given-names>DR</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Walz</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Miller</surname>
+<given-names>FD</given-names>
+</string-name>. 
+<year>2015</year>
+<article-title>
+<italic toggle="yes">Ankrd11</italic> is a chromatin regulator involved in autism that is essential for neural development</article-title>. 
+<source xml:lang="en">Dev Cell</source>
+<volume>32</volume>:<fpage>31</fpage>–<lpage>42</lpage>.
+<pub-id pub-id-type="pmid">25556659</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.devcel.2014.11.031</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0008"><mixed-citation publication-type="journal" id="ajmga37842-cit-0008">
+<string-name name-style="western">
+<surname>Herrmann</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pallister</surname>
+<given-names>PD</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tiddy</surname>
+<given-names>W</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Opitz</surname>
+<given-names>M</given-names>
+</string-name>. 
+<year>1975</year>
+<article-title>The KBG syndrome‐a syndrome of short stature, characteristic facies, mental retardation, macrodontia and skeletal anomalies</article-title>. 
+<source xml:lang="en">Birth Defects Orig Artic Ser</source>
+<volume>11</volume>:<fpage>7</fpage>–<lpage>18</lpage>.
+<pub-id pub-id-type="pmid">1218237</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0009"><mixed-citation publication-type="journal" id="ajmga37842-cit-0009">
+<string-name name-style="western">
+<surname>Isrie</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hendriks</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gielissen</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sistermans</surname>
+<given-names>EA</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Willemsen</surname>
+<given-names>MH</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Peeters</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Vermeesch</surname>
+<given-names>JR</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kleefstra</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Van Esch</surname>
+<given-names>H</given-names>
+</string-name>. 
+<year>2012</year>
+<article-title>Haploinsufficiency of <italic toggle="yes">ANKRD11</italic> causes mild cognitive impairment, short stature and minor dysmorphisms</article-title>. 
+<source xml:lang="en">Eur J Hum Genet</source>
+<volume>20</volume>:<fpage>131</fpage>–<lpage>133</lpage>.
+<pub-id pub-id-type="pmid">21654729</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ejhg.2011.105</pub-id><pub-id pub-id-type="pmcid">PMC3260937</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0010"><mixed-citation publication-type="journal" id="ajmga37842-cit-0010">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>HJ</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cho</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Park</surname>
+<given-names>JB</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wy</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>HJ</given-names>
+</string-name>. 
+<year>2015</year>
+<article-title>A Korean family with KBG syndrome identified by <italic toggle="yes">ANKRD11</italic> mutation, and phenotypic comparison of <italic toggle="yes">ANKRD11</italic> mutation and 16q24.3 microdeletion</article-title>. 
+<source xml:lang="en">Eur J Med Genet</source>
+<volume>58</volume>:<fpage>86</fpage>–<lpage>94</lpage>.
+<pub-id pub-id-type="pmid">25464108</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejmg.2014.11.003</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0011"><mixed-citation publication-type="journal" id="ajmga37842-cit-0011">
+<string-name name-style="western">
+<surname>Koressaar</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Remm</surname>
+<given-names>M</given-names>
+</string-name>. 
+<year>2007</year>
+<article-title>Enhancements and modifications of primer design program Primer 3</article-title>. 
+<source xml:lang="en">Bioinformatics</source>
+<volume>23</volume>:<fpage>1289</fpage>–<lpage>1291</lpage>.
+<pub-id pub-id-type="pmid">17379693</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btm091</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0012"><mixed-citation publication-type="journal" id="ajmga37842-cit-0012">
+<string-name name-style="western">
+<surname>Lo‐Castro</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Brancati</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Digilio</surname>
+<given-names>MC</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Garaci</surname>
+<given-names>FG</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bollero</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Alfieri</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Curatolo</surname>
+<given-names>P</given-names>
+</string-name>. 
+<year>2013</year>
+<article-title>Neurobehavioral phenotype observed in KBG syndrome caused by ANKRD11 mutations</article-title>. 
+<source xml:lang="en">Am J Neuropsychiatr Genet</source>
+<volume>162B</volume>:<fpage>17</fpage>–<lpage>23</lpage>.
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ajmg.b.32113</pub-id><pub-id pub-id-type="pmid">23184435</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0013"><mixed-citation publication-type="journal" id="ajmga37842-cit-0013">
+<string-name name-style="western">
+<surname>Need</surname>
+<given-names>AC</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shashi</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hitomi</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Schoch</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shianna</surname>
+<given-names>KV</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McDonald</surname>
+<given-names>MT</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Meisler</surname>
+<given-names>MH</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Goldstein</surname>
+<given-names>DB</given-names>
+</string-name>. 
+<year>2012</year>
+<article-title>Clinical application of exome sequencing in undiagnosed genetic conditions</article-title>. 
+<source xml:lang="en">J Med Genet</source>
+<volume>49</volume>:<fpage>353</fpage>–<lpage>361</lpage>.
+<pub-id pub-id-type="pmid">22581936</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jmedgenet-2012-100819</pub-id><pub-id pub-id-type="pmcid">PMC3375064</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0014"><mixed-citation publication-type="journal" id="ajmga37842-cit-0014">
+<string-name name-style="western">
+<surname>Ockeloen</surname>
+<given-names>CW</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Willemsen</surname>
+<given-names>MH</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>de Munnik</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>van Bon</surname>
+<given-names>BW</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>de Leeuw</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Verrips</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kant</surname>
+<given-names>SG</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jones</surname>
+<given-names>EA</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Brunner</surname>
+<given-names>HG</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>van Loon</surname>
+<given-names>RL</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Smeets</surname>
+<given-names>EE</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>van Haelst</surname>
+<given-names>MM</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>van Haaften</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Nordgren</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Malmgren</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Grigelioniene</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Vermeer</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Louro</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ramos</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Maal</surname>
+<given-names>TJ</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>van Heumen</surname>
+<given-names>CC</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Yntema</surname>
+<given-names>HG</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Carels</surname>
+<given-names>CE</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kleefstra</surname>
+<given-names>T</given-names>
+</string-name>. 
+<year>2015</year>
+<article-title>Further delineation of the KBG syndrome phenotype caused by <italic toggle="yes">ANKRD11</italic> aberrations</article-title>. 
+<source xml:lang="en">Eur J Hum Genet</source>
+<volume>23</volume>:<fpage>1270</fpage>.
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ejhg.2014.253</pub-id><pub-id pub-id-type="pmcid">PMC4538199</pub-id><pub-id pub-id-type="pmid">25424714</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0015"><mixed-citation publication-type="journal" id="ajmga37842-cit-0015">
+<string-name name-style="western">
+<surname>Parenti</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gervasini</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pozojevic</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Graul‐Neumann</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Azzollini</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Braunholz</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Watrin</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wendt</surname>
+<given-names>KS</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cereda</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cittaro</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gillessen‐Kaesbach</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lazarevic</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mariani</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Russo</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Werner</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Krawitz</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Larizza</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Selicorni</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kaiser</surname>
+<given-names>FJ</given-names>
+</string-name>. 
+<year>2016</year>
+<article-title>Broadening of cohesinopathies: Exome sequencing identifies mutations in <italic toggle="yes">ANKRD11</italic> in two patients with Cornelia de Lange‐overlapping phenotype</article-title>. 
+<source xml:lang="en">Clin Genet</source>
+<volume>89</volume>:<fpage>74</fpage>–<lpage>81</lpage>.
+<pub-id pub-id-type="pmid">25652421</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cge.12564</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0016"><mixed-citation publication-type="journal" id="ajmga37842-cit-0016">
+<string-name name-style="western">
+<surname>Reynaert</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ockeloen</surname>
+<given-names>CW</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sävendahl</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Beckers</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Devriendt</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kleefstra</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Carels</surname>
+<given-names>CE</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Grigelioniene</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Nordgren</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Francois</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>de Zegher</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Casteels</surname>
+<given-names>K</given-names>
+</string-name>. 
+<year>2015</year>
+<article-title>Short stature in KBG syndrome: First responses to growth hormone treatment</article-title>. 
+<source xml:lang="en">Horm Res Paediatr</source>
+<volume>83</volume>:<fpage>361</fpage>–<lpage>364</lpage>.
+<pub-id pub-id-type="pmid">25833229</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000380908</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0017"><mixed-citation publication-type="journal" id="ajmga37842-cit-0017">
+<string-name name-style="western">
+<surname>Sacharow</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fan</surname>
+<given-names>YS</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tekin</surname>
+<given-names>M</given-names>
+</string-name>. 
+<year>2012</year>
+<article-title>Familial 16q24. 3 microdeletion involving ANKRD11 causes a KBG‐like syndrome</article-title>. 
+<source xml:lang="en">Am J Med Genet Part A</source>
+<volume>185A</volume>:<fpage>547</fpage>–<lpage>552</lpage>.
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ajmg.a.34436</pub-id><pub-id pub-id-type="pmid">22307766</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0018"><mixed-citation publication-type="journal" id="ajmga37842-cit-0018">
+<string-name name-style="western">
+<surname>Sirmaci</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Spiliopoulos</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Brancati</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Powell</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Duman</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Abrams</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bademci</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Agolini</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Konuk</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kavaz</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Blanton</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Digilio</surname>
+<given-names>MC</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dallapiccola</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Young</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zuchner</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tekin</surname>
+<given-names>M</given-names>
+</string-name>. 
+<year>2011</year>
+<article-title>Mutations in <italic toggle="yes">ANKRD11</italic> cause KBG syndrome, characterized by intellectual disability, skelmalformations, and macrodontia</article-title>. 
+<source xml:lang="en">Am J Hum Genet</source>
+<volume>89</volume>:<fpage>289</fpage>–<lpage>294</lpage>.
+<pub-id pub-id-type="pmid">21782149</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajhg.2011.06.007</pub-id><pub-id pub-id-type="pmcid">PMC3155157</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0019"><mixed-citation publication-type="journal" id="ajmga37842-cit-0019">
+<string-name name-style="western">
+<surname>Skjei</surname>
+<given-names>KL</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Martin</surname>
+<given-names>MM</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Slavotinek</surname>
+<given-names>AM</given-names>
+</string-name>. 
+<year>2007</year>
+<article-title>KBG syndrome: Report of twins, neurological characteristics, and delineation of diagnostic criteria</article-title>. 
+<source xml:lang="en">Am J Med Genet Part A</source>
+<volume>143A</volume>:<fpage>292</fpage>–<lpage>300</lpage>.
+<pub-id pub-id-type="pmid">17230487</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ajmg.a.31597</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0020"><mixed-citation publication-type="journal" id="ajmga37842-cit-0020">
+<string-name name-style="western">
+<surname>Smithson</surname>
+<given-names>SF</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>EM</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McKinnon</surname>
+<given-names>AG</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Smith</surname>
+<given-names>IS</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Winter</surname>
+<given-names>RM</given-names>
+</string-name>. 
+<year>2000</year>
+<article-title>The KBG syndrome</article-title>. 
+<source xml:lang="en">Clin Dysmorphol</source>
+<volume>9</volume>:<fpage>87</fpage>–<lpage>91</lpage>.
+<pub-id pub-id-type="pmid">10826617</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00019605-200009020-00002</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0021"><mixed-citation publication-type="journal" id="ajmga37842-cit-0021">
+<string-name name-style="western">
+<surname>Untergasser</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cutcutache</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Koressaar</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ye</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Faircloth</surname>
+<given-names>BC</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Remm</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rozen</surname>
+<given-names>SG</given-names>
+</string-name>. 
+<year>2012</year>
+<article-title>Primer3‐new capabilities and interfaces</article-title>. 
+<source xml:lang="en">Nucleic Acids Res</source>
+<volume>40</volume>:<fpage>e115</fpage>.
+<pub-id pub-id-type="pmid">22730293</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gks596</pub-id><pub-id pub-id-type="pmcid">PMC3424584</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0022"><mixed-citation publication-type="journal" id="ajmga37842-cit-0022">
+<string-name name-style="western">
+<surname>Walz</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cohen</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Neilsen</surname>
+<given-names>PM</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Foster</surname>
+<given-names>J</given-names>, <suffix>2nd</suffix>
+</string-name>, 
+<string-name name-style="western">
+<surname>Brancati</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Demir</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fisher</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Moffat</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Verbeek</surname>
+<given-names>NE</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bjorgo</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lo Castro</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Curatolo</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Novelli</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Abad</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lei</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Diaz‐Horta</surname>
+<given-names>O</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Young</surname>
+<given-names>JI</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Callen</surname>
+<given-names>DF</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tekin</surname>
+<given-names>M</given-names>
+</string-name>. 
+<year>2015</year>
+<article-title>Characterization of <italic toggle="yes">ANKRD11</italic> mutations in humans and mice related to KBG syndrome</article-title>. 
+<source xml:lang="en">Hum Genet</source>
+<volume>134</volume>:<fpage>181</fpage>–<lpage>190</lpage>.
+<pub-id pub-id-type="pmid">25413698</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00439-014-1509-2</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0023"><mixed-citation publication-type="journal" id="ajmga37842-cit-0023">
+<string-name name-style="western">
+<surname>Willemsen</surname>
+<given-names>MH</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fernandez</surname>
+<given-names>BA</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bacino</surname>
+<given-names>CA</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gerkes</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>de Brouwer</surname>
+<given-names>AP</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pfundt</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sikkema‐Raddatz</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Scherer</surname>
+<given-names>SW</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Marshall</surname>
+<given-names>CR</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Potocki</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>van Bokhoven</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kleefstra</surname>
+<given-names>T</given-names>
+</string-name>. 
+<year>2010</year>
+<article-title>Identification of <italic toggle="yes">ANKRD11</italic> and ZNF778 as candidate genes for autism and variable cognitive impairment in the novel 16q24. 3 microdeletion syndrome</article-title>. 
+<source xml:lang="en">Eur J Hum Genet</source>
+<volume>18</volume>:<fpage>429</fpage>–<lpage>435</lpage>.
+<pub-id pub-id-type="pmid">19920853</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ejhg.2009.192</pub-id><pub-id pub-id-type="pmcid">PMC2987261</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0024"><mixed-citation publication-type="journal" id="ajmga37842-cit-0024">
+<string-name name-style="western">
+<surname>Wright</surname>
+<given-names>CF</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fitzgerald</surname>
+<given-names>TW</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jones</surname>
+<given-names>WD</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Clayton</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>McRae</surname>
+<given-names>JF</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>van Kogelenberg</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>King</surname>
+<given-names>DA</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ambridge</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Barrett</surname>
+<given-names>DM</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bayzetinova</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bevan</surname>
+<given-names>AP</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bragin</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chatzimichali</surname>
+<given-names>EA</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gribble</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jones</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Krishnappa</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mason</surname>
+<given-names>LE</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Miller</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Morley</surname>
+<given-names>KI</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Parthiban</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Prigmore</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rajan</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sifrim</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Swaminathan</surname>
+<given-names>GJ</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tivey</surname>
+<given-names>AR</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Middleton</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Parker</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Carter</surname>
+<given-names>NP</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Barrett</surname>
+<given-names>JC</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hurles</surname>
+<given-names>ME</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>FitzPatrick</surname>
+<given-names>DR</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Firth</surname>
+<given-names>HV</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>study</surname>
+<given-names>DDD</given-names>
+</string-name>. 
+<year>2015</year>
+<article-title>Genetic diagnosis of developmental disorders in the DDD study: A scalable analysis of genome‐wide research data</article-title>. 
+<source xml:lang="en">Lancet</source>
+<volume>385</volume>:<fpage>1305</fpage>–<lpage>1314</lpage>.
+<pub-id pub-id-type="pmid">25529582</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(14)61705-0</pub-id><pub-id pub-id-type="pmcid">PMC4392068</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0025"><mixed-citation publication-type="journal" id="ajmga37842-cit-0025">
+<string-name name-style="western">
+<surname>Youngs</surname>
+<given-names>EL</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hellings</surname>
+<given-names>JA</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Butler</surname>
+<given-names>MG</given-names>
+</string-name>. 
+<year>2011</year>
+<article-title>
+<italic toggle="yes">ANKRD11</italic> deletion in a 17‐year‐old male</article-title>. 
+<source xml:lang="en">Clin Dysmorphol</source>
+<volume>20</volume>:<fpage>170</fpage>–<lpage>171</lpage>.
+<pub-id pub-id-type="pmid">21527850</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MCD.0b013e328346f6ae</pub-id><pub-id pub-id-type="pmcid">PMC5283804</pub-id></mixed-citation></ref><ref id="ajmga37842-bib-0026"><mixed-citation publication-type="journal" id="ajmga37842-cit-0026">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Yeung</surname>
+<given-names>PL</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>C‐W</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>SC</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dinh</surname>
+<given-names>GK</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>X</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>JD</given-names>
+</string-name>. 
+<year>2004</year>
+<article-title>Identification of a novel family of ankyrin repeats containing cofactors for p160 nuclear receptor coactivators</article-title>. 
+<source xml:lang="en">J Biol Chem</source>
+<volume>279</volume>:<fpage>33799</fpage>–<lpage>33805</lpage>.
+<pub-id pub-id-type="pmid">15184363</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M403997200</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>
