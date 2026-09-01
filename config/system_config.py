@@ -1,7 +1,8 @@
 import os
+from pathlib import Path
 
 # Base paths
-WORKSPACE_DIR = r"d:\finalresearchproject"
+WORKSPACE_DIR = str(Path(__file__).resolve().parent.parent)
 DATA_DIR = os.path.join(WORKSPACE_DIR, "data")
 RAW_DATA_DIR = os.path.join(DATA_DIR, "raw")
 PROCESSED_DATA_DIR = os.path.join(DATA_DIR, "processed")

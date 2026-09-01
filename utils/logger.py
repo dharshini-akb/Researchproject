@@ -19,7 +19,8 @@ def get_logger(name: str) -> logging.Logger:
     logger.addHandler(sh)
     
     # File Handler
-    log_dir = r"d:\finalresearchproject\reports"
+    from pathlib import Path
+    log_dir = str(Path(__file__).resolve().parent.parent / "reports")
     os.makedirs(log_dir, exist_ok=True)
     log_file = os.path.join(log_dir, "app.log")
     fh = logging.FileHandler(log_file, encoding="utf-8")
