@@ -1,0 +1,44 @@
+{
+  "dataset_expansion": {
+    "original_patients": 133,
+    "new_patients_accepted": 252,
+    "duplicates_quarantined": 59,
+    "final_expanded_patients": 385,
+    "disease_counts": {
+      "KBG Syndrome": 298,
+      "White-Sutton Syndrome": 45,
+      "Xia-Gibbs Syndrome": 42
+    },
+    "sex_counts": {
+      "MALE": 203,
+      "FEMALE": 165,
+      "UNKNOWN_SEX": 17
+    },
+    "unique_hpo_terms": 82,
+    "ontology_version": "hp/releases/2026-06-23"
+  },
+  "splits": {
+    "train": 230,
+    "validation": 77,
+    "test": 78,
+    "train_hpo_vocabulary_size": 78,
+    "total_ml_features": 81
+  },
+  "model_evaluation": {
+    "test_accuracy": 0.9871794871794872,
+    "test_accuracy_95ci": [
+      0.9622128799019098,
+      1.0
+    ],
+    "macro_precision": 0.9945355191256832,
+    "macro_recall": 0.9629629629629629,
+    "macro_specificity": 0.9814814814814815,
+    "macro_f1": 0.977637335926106,
+    "macro_auroc": 1.0,
+    "macro_auprc": 1.0,
+    "cv_5fold_accuracy_mean": 0.9714285714285713,
+    "cv_5fold_accuracy_std": 0.02234370199231852,
+    "cv_5fold_f1_mean": 0.9489192296690272,
+    "cv_5fold_f1_std": 0.040404343113437054
+  }
+}

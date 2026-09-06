@@ -1,0 +1,627 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="bdr22058" xml:lang="en" article-type="case-report" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Birth Defects Res</journal-id><journal-id journal-id-type="iso-abbrev">Birth Defects Res</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">101701004</journal-id><journal-id journal-id-type="publisher-id">BDR2</journal-id><journal-title-group><journal-title>Birth Defects Research</journal-title></journal-title-group><issn pub-type="epub">2472-1727</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9545659</article-id><article-id pub-id-type="pmcid-ver">PMC9545659.1</article-id><article-id pub-id-type="pmcaid">9545659</article-id><article-id pub-id-type="pmcaiid">9545659</article-id><article-id pub-id-type="pmid">35716097</article-id><article-id pub-id-type="doi">10.1002/bdr2.2058</article-id><article-id pub-id-type="publisher-id">BDR22058</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Case Report</subject></subj-group><subj-group subj-group-type="heading"><subject>Case Report</subject></subj-group></article-categories><title-group><article-title>Genotype–phenotype spectrum and correlations in <styled-content style="fixed-case" toggle="no">Xia‐Gibbs</styled-content> syndrome: Report of five novel cases and literature review</article-title><alt-title alt-title-type="left-running-head">Romano et al.</alt-title></title-group><contrib-group><contrib id="bdr22058-cr-0001" contrib-type="author"><name name-style="western"><surname>Romano</surname><given-names initials="F">Ferruccio</given-names></name><xref rid="bdr22058-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="bdr22058-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="bdr22058-cr-0002" contrib-type="author"><name name-style="western"><surname>Falco</surname><given-names initials="M">Mariateresa</given-names></name><xref rid="bdr22058-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="bdr22058-cr-0003" contrib-type="author"><name name-style="western"><surname>Cappuccio</surname><given-names initials="G">Gerarda</given-names></name><xref rid="bdr22058-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="bdr22058-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="bdr22058-cr-0004" contrib-type="author"><name name-style="western"><surname>Brunetti‐Pierri</surname><given-names initials="N">Nicola</given-names></name><xref rid="bdr22058-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="bdr22058-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="bdr22058-cr-0005" contrib-type="author"><name name-style="western"><surname>Lonardo</surname><given-names initials="F">Fortunato</given-names></name><xref rid="bdr22058-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="bdr22058-cr-0006" contrib-type="author"><name name-style="western"><surname>Torella</surname><given-names initials="A">Annalaura</given-names></name><xref rid="bdr22058-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="bdr22058-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="bdr22058-cr-0007" contrib-type="author"><name name-style="western"><surname>Digilio</surname><given-names initials="MC">Maria Cristina</given-names></name><xref rid="bdr22058-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="bdr22058-cr-0008" contrib-type="author"><name name-style="western"><surname>Dentici</surname><given-names initials="ML">Maria Lisa</given-names></name><xref rid="bdr22058-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="bdr22058-cr-0009" contrib-type="author"><name name-style="western"><surname>Alfieri</surname><given-names initials="P">Paolo</given-names></name><xref rid="bdr22058-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="bdr22058-cr-0010" contrib-type="author"><name name-style="western"><surname>Agolini</surname><given-names initials="E">Emanuele</given-names></name><xref rid="bdr22058-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="bdr22058-cr-0011" contrib-type="author"><name name-style="western"><surname>Novelli</surname><given-names initials="A">Antonio</given-names></name><xref rid="bdr22058-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="bdr22058-cr-0012" contrib-type="author"><name name-style="western"><surname>Garavelli</surname><given-names initials="L">Livia</given-names></name><xref rid="bdr22058-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="bdr22058-cr-0013" contrib-type="author"><name name-style="western"><surname>Accogli</surname><given-names initials="A">Andrea</given-names></name><xref rid="bdr22058-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref><xref rid="bdr22058-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="bdr22058-cr-0014" contrib-type="author"><collab collab-type="authors">TUDP</collab><xref rid="bdr22058-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="bdr22058-cr-0015" contrib-type="author"><name name-style="western"><surname>Striano</surname><given-names initials="P">Pasquale</given-names></name><xref rid="bdr22058-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="bdr22058-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="bdr22058-cr-0016" contrib-type="author"><name name-style="western"><surname>Scarano</surname><given-names initials="G">Gioacchino</given-names></name><xref rid="bdr22058-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="bdr22058-cr-0017" contrib-type="author"><name name-style="western"><surname>Nigro</surname><given-names initials="V">Vincenzo</given-names></name><xref rid="bdr22058-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="bdr22058-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="bdr22058-cr-0018" contrib-type="author" corresp="yes"><name name-style="western"><surname>Scala</surname><given-names initials="M">Marcello</given-names></name><xref rid="bdr22058-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="bdr22058-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref><address><email>mscala.md@gmail.com</email></address></contrib><contrib id="bdr22058-cr-0019" contrib-type="author" corresp="yes"><name name-style="western"><surname>Capra</surname><given-names initials="V">Valeria</given-names></name><xref rid="bdr22058-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>valeriacapra@gaslini.org</email></address></contrib></contrib-group><aff id="bdr22058-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Medical Genetics Unit</named-content>
+<institution>IRCCS Istituto Giannina Gaslini</institution>
+<city>Genoa</city>
+<country country="IT">Italy</country>
+</aff><aff id="bdr22058-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, Maternal and Child Health</named-content>
+<institution>University of Genoa</institution>
+<city>Genoa</city>
+<country country="IT">Italy</country>
+</aff><aff id="bdr22058-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">U.O.S.D. Genetica Medica</named-content>
+<institution>A.O.R.N. San Pio</institution>
+<city>Benevento</city>
+<country country="IT">Italy</country>
+</aff><aff id="bdr22058-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Translational Medicine</named-content>
+<institution>Federico II University</institution>
+<city>Naples</city>
+<country country="IT">Italy</country>
+</aff><aff id="bdr22058-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Telethon Institute of Genetics and Medicine</institution>
+<city>Pozzuoli</city>
+<country country="IT">Italy</country>
+</aff><aff id="bdr22058-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Precision Medicine</named-content>
+<institution>University of Campania “Luigi Vanvitelli”</institution>
+<city>Naples</city>
+<country country="IT">Italy</country>
+</aff><aff id="bdr22058-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Medical Genetics Unit, Medical Genetics and Rare Disease Research Unit, Bambino Gesù Children's Hospital</named-content>
+<institution>IRCCS</institution>
+<city>Rome</city>
+<country country="IT">Italy</country>
+</aff><aff id="bdr22058-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Neuropsichiatric Unit, Bambino Gesù Children's Hospital</named-content>
+<institution>IRCCS</institution>
+<city>Rome</city>
+<country country="IT">Italy</country>
+</aff><aff id="bdr22058-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Translational Cytogenomics Research Unit, Bambino Gesù Children's Hospital</named-content>
+<institution>IRCCS</institution>
+<city>Rome</city>
+<country country="IT">Italy</country>
+</aff><aff id="bdr22058-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Medical Genetics Unit</named-content>
+<institution>Azienda USL‐IRCCS di Reggio Emilia</institution>
+<city>Reggio Emilia</city>
+<country country="IT">Italy</country>
+</aff><aff id="bdr22058-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Division of Medical Genetics, Department of Specialized Medicine</named-content>
+<institution>McGill University</institution>
+<city>Quebec</city>
+<country country="CA">Canada</country>
+</aff><aff id="bdr22058-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Department of Human Genetics</named-content>
+<institution>McGill University</institution>
+<city>Quebec</city>
+<country country="CA">Canada</country>
+</aff><aff id="bdr22058-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<institution>Telethon Foundation</institution>
+<city>Rome</city>
+<country country="IT">Italy</country>
+</aff><aff id="bdr22058-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">Pediatric Neurology and Muscular Diseases Unit</named-content>
+<institution>IRCCS Istituto Giannina Gaslini</institution>
+<city>Genoa</city>
+<country country="IT">Italy</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Marcello Scala, Pediatric Neurology and Muscular Diseases Unit, IRCCS Istituto Giannina Gaslini, Genoa, Italy.<break/>
+Email: <email>mscala.md@gmail.com</email>
+<break/>
+Valeria Capra, Medical Genetics Unit, IRCCS Istituto Giannina Gaslini, Genoa, Italy.<break/>
+Email: <email>valeriacapra@gaslini.org</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>6</month><year>2022</year></pub-date><pub-date pub-type="ppub"><day>01</day><month>8</month><year>2022</year></pub-date><volume>114</volume><issue seq="60">13</issue><issue-id pub-id-type="pmc-issue-id">418734</issue-id><issue-id pub-id-type="doi">10.1002/bdr2.v114.13</issue-id><fpage>759</fpage><lpage>767</lpage><history><date date-type="rev-recd"><day>03</day><month>5</month><year>2022</year></date><date date-type="received"><day>06</day><month>4</month><year>2022</year></date><date date-type="accepted"><day>08</day><month>5</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>07</day><month>10</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>14</day><month>10</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-09-04 14:25:13.383"><day>04</day><month>09</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Birth Defects Research</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="BDR2-114-759.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:BDR2-114-759.pdf"/><abstract><title>Abstract</title><sec id="bdr22058-sec-0001"><title>Background</title><p>Xia‐Gibbs syndrome (XGS) is a rare neurodevelopmental disorder caused by pathogenic variants in the AT‐hook DNA‐binding motif‐containing 1 gene (<italic toggle="no">AHDC1</italic>), encoding a protein with a crucial role in transcription and epigenetic regulation, axonogenesis, brain function, and neurodevelopment. <italic toggle="no">AHDC1</italic> variants possibly act through a dominant‐negative mechanism and may interfere with DNA repair processes, leading to genome instability and impaired DNA translesion repair. Variants affecting residues closer to the N‐terminal are thought to determine a milder phenotype with better cognitive performances. However, clean‐cut genotype–phenotype correlations are still lacking.</p></sec><sec id="bdr22058-sec-0002"><title>Cases</title><p>In this study, we investigated five subjects with XGS in whom exome sequencing led to the identification of five novel de novo pathogenic variants in <italic toggle="no">AHDC1</italic>. All variants were extremely rare and predicted to cause a loss of protein function. The phenotype of the reported patients included developmental delay, hypotonia, and distinctive facial dysmorphisms. Additionally, uncommon clinical features were observed, including congenital hypothyroidism and peculiar skeletal abnormalities.</p></sec><sec id="bdr22058-sec-0003"><title>Conclusions</title><p>In this study, we report uncommon XGS features associated with five novel truncating variants in <italic toggle="no">AHDC</italic>, thus expanding the genotype and phenotypic spectrum of this complex condition. We also compared our cases to previously reported cases, discussing the current status of genotype–phenotype correlations in XGS.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bdr22058-kwd-0001"><italic toggle="no">AHDC1</italic></kwd><kwd id="bdr22058-kwd-0002">DNA repair</kwd><kwd id="bdr22058-kwd-0003">genotype–phenotype correlations</kwd><kwd id="bdr22058-kwd-0004">loss‐of‐function variant</kwd><kwd id="bdr22058-kwd-0005">neurodevelopmental syndrome</kwd><kwd id="bdr22058-kwd-0006">Xia‐Gibbs syndrome</kwd></kwd-group><counts><fig-count count="1"/><table-count count="1"/><page-count count="9"/><word-count count="5725"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 1, 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.0 mode:remove_FC converted:07.10.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="bdr22058-cit-9001">
+<string-name name-style="western">
+<surname>Romano</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Falco</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cappuccio</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brunetti‐Pierri</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lonardo</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torella</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Digilio</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dentici</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alfieri</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agolini</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Novelli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garavelli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Accogli</surname>, <given-names>A.</given-names>
+</string-name>, <collab collab-type="authors">TUDP</collab>
+, <string-name name-style="western">
+<surname>Striano</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scarano</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nigro</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scala</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Capra</surname>, <given-names>V.</given-names>
+</string-name> (<year>2022</year>). <article-title>Genotype–phenotype spectrum and correlations in <styled-content style="fixed-case" toggle="no">Xia‐Gibbs</styled-content> syndrome: Report of five novel cases and literature review</article-title>. <source>Birth Defects Research</source>, <volume>114</volume>(<issue>13</issue>), <fpage>759</fpage>–<lpage>767</lpage>. <pub-id pub-id-type="doi">10.1002/bdr2.2058</pub-id>
+<pub-id pub-id-type="pmid">35716097</pub-id><pub-id pub-id-type="pmcid">PMC9545659</pub-id></mixed-citation>
+</p><fn-group id="bdr22058-ntgp-0012"><fn id="bdr22058-note-0018"><p>Dr Ferruccio Romano and Mariateresa Falco have contributed equally.</p><p>Dr Marcello Scala and Dr Valeria Capra have contributed equally.</p></fn></fn-group></notes></front><body id="bdr22058-body-0001"><sec id="bdr22058-sec-0004"><label>1</label><title>INTRODUCTION</title><p>Xia‐Gibbs syndrome (XGS) is a rare neurodevelopmental disorder characterized by global developmental delay (DD), intellectual disability (ID), speech delay with limited or absent language, hypotonia, and sleep abnormalities/sleep apnoea. Other, less frequent clinical findings include movement disorders, ataxia (that often become apparent in childhood or adolescence), short stature, seizures, strabismus, behavioral concerns, or autism spectrum disorders (ASD), and variable neuroimaging structural anomalies. This condition, which is caused by de novo truncating mutations in <italic toggle="yes">AHDC1</italic>, was first described in 2014 by Xia et al., who identified a de novo truncating variant in a patient with DD, hypotonia, mild dysmorphic features, and sleep apnoea (Chander et al., <xref rid="bdr22058-bib-0003" ref-type="bibr">2021</xref>; Cheng et al., <xref rid="bdr22058-bib-0005" ref-type="bibr">2019</xref>; Díaz‐Ordoñez et al., <xref rid="bdr22058-bib-0008" ref-type="bibr">2019</xref>; Xia et al., <xref rid="bdr22058-bib-0031" ref-type="bibr">2014</xref>). Since then, around 280 cases of XGS have been reported (Bosch et al., <xref rid="bdr22058-bib-0001" ref-type="bibr">2016</xref>; Chander et al., <xref rid="bdr22058-bib-0003" ref-type="bibr">2021</xref>; Park et al., <xref rid="bdr22058-bib-0023" ref-type="bibr">2017</xref>; Miller et al., <xref rid="bdr22058-bib-0020" ref-type="bibr">2017</xref>; Popp et al., <xref rid="bdr22058-bib-0024" ref-type="bibr">2017</xref>).</p><p>
+<italic toggle="yes">The AT‐hook DNA‐binding motif‐containing 1 (AHDC1)</italic> gene is located on the short arm of chromosome 1 within the cytogenetic band 1p36.11–35.3. This region is proximal to the chromosomal region causing partial or complete 1p36 deletion syndrome (Gajecka et al., <xref rid="bdr22058-bib-0011" ref-type="bibr">2007</xref>) and <italic toggle="yes">AHDC1</italic> lies nearby the <italic toggle="yes">AT‐rich interaction domain 1A (ARID1A)</italic> gene, whose mutations cause autosomal‐dominant Coffin‐Siris syndrome (Tsurusaki et al., <xref rid="bdr22058-bib-0028" ref-type="bibr">2012</xref>). <italic toggle="yes">AHDC1</italic> consists of seven exons with a single coding exon and encodes the 1,603‐amino acid protein AT‐hook DNA‐binding motif‐containing protein 1 (Xia et al., <xref rid="bdr22058-bib-0031" ref-type="bibr">2014</xref>). AHDC1 has two AT‐hook DNA‐binding motifs located at codons 396–408 and 544–556, which are DNA‐binding motifs acting to fasten proteins to AT‐rich sequences in DNA (Karlson et al., <xref rid="bdr22058-bib-0017" ref-type="bibr">1989</xref>). However, the physiological function of the AHDC1 protein and the mechanisms underlying XGS remain elusive (Chander et al., <xref rid="bdr22058-bib-0003" ref-type="bibr">2021</xref>).</p><p>In this study, we provide a detailed molecular and phenotypic description of five novel patients with XGS harboring de novo variants in <italic toggle="yes">AHDC1</italic> and review previously reported cases focusing on the possible genotype–phenotype correlations in this complex condition.</p></sec><sec id="bdr22058-sec-0005"><label>2</label><title>PATIENTS AND METHODS</title><p>The study was conducted in accordance with the Declaration of Helsinki and approved by the local Institutional Ethics Committees. Patients were enrolled at different Italian Institutions (Istituto Giannina Gaslini, Genoa; Federico II University, Naples; AORN San Pio, PO Gaetano Rummo, Benevento; Bambino Gesù Children's Hospital, Rome; Arcispedale S. Maria Nuova, Reggio Emilia) and clinically evaluated by pediatric geneticists and neurologists. Informed consent was obtained by the parents or legal guardians according to Telethon Undiagnosed Program (TUDP) guidelines, trio‐WES was performed in the three families on genomic DNA extracted from peripheral blood. Agilent Sure Select QXT Clinical Research Exome (Agilent Technologies, Santa Clara, CA, USA) was used and Sequencing data were processed with in‐house software for the GATK Best Practices pipeline for WES variant analysis execution.<sup>14</sup>After filtering for allele frequency (≤0.01% in public databases, including GnomAD v2.1.1; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://gnomad.broadinstitute.org/" ext-link-type="uri">https://gnomad.broadinstitute.org/</ext-link>), family segregation, conservation (GERP score), and predicted impact on protein function through in silico tools (including SIFT, PolyPhen‐2, Mutation Taster), the best candidates were de novo variants in <italic toggle="yes">AHDC1</italic> in all probands. These variants were eventually validated through Sanger sequencing.</p></sec><sec id="bdr22058-sec-0006"><label>3</label><title>CLINICAL REPORTS</title><sec id="bdr22058-sec-0007"><label>3.1</label><title>Patient1</title><p>Patient 1 was born to unrelated healthy parents of Italian descent, after a pregnancy complicated by intrauterine growth retardation (IUGR). Family history was remarkable for epilepsy and neurodevelopmental delay. Growth parameters at birth showed short length (1st pc), while weight and head circumference were normal. The patient presented with neonatal jaundice, congenital hypothyroidism, and facial dysmorphisms. In the first 2 years of life, motor clumsiness and DD were diagnosed, associated with short stature (&lt;3rd pc) and obstructive sleep apnea (OSA). Griffiths developmental scales II at 40 months revealed a competence corresponding to 13 months. He started to walk with a wide‐based gait at the age of 3 years, his speech was limited to a single word, and bowel control was only achieved at age 6. At the age of 7 yearsASD and attentive deficit‐hyperactive disorder (ADHD) were also diagnosed. Dysmorphic craniofacial features included a prominent forehead, small nose, wide philtrum, thin lips, thin hair in temporal regions, and low‐set ears (Figure <xref rid="bdr22058-fig-0001" ref-type="fig">1a</xref>). Other dysmorphic features were fetal pads, brittle nails, short neck, pectus excavatum, and small feet with hammerfirst fingers. He had unilateral hearing loss and ophthalmologic evaluation revealed exotropia and hypermetropic astigmatism. Brain magnetic resonance imaging (MRI) at the age of 1 year showed a reduced volume of centrum semiovale and mildly delayed myelination, which disappeared at the age of 3 years (Figure <xref rid="bdr22058-fig-0001" ref-type="fig">1b</xref>).</p><fig position="float" fig-type="FIGURE" id="bdr22058-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>(a) Dysmorphic features of the patients. P1: prominent forehead, small nose, wide philtrum, thin lips, and low set ears; P3:brachycephaly, hypertelorism, long and flat philtrum, thin upper lip, high and arched palate, retrognathia; P4: synophrys, arched eyebrows, long eyelashes, ptosis on the left, short nose, anteverted nares, flat philtrum, thin upper lip, thick everted lower lip, small teeth, mild retrognathia, dysmorphic ears with anteverted up‐lifted lobes. (b) P1: brain MRI, axial T2‐weighted images at 10 months (a) and 3 years old (b). Sagittal 3D‐T1‐weighted images at 3 months (c) and 3 years old (d). (c) Summary of the main neurological features of XGS (adapted from Della Vecchia) (Della Vecchia et al., <xref rid="bdr22058-bib-0007" ref-type="bibr">2021</xref>). P = patient</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="BDR2-114-759-g001.jpg"/></fig></sec><sec id="bdr22058-sec-0008"><label>3.2</label><title>Patient 2</title><p>The proband is the only son of a non‐consanguineous couple with a negative family history. Prenatal ultrasounds were unremarkable and he was born at 42 weeks after an unremarkable pregnancy. Apgar score was 9–9. Birth weight was 3,080 g (15th pc) and length 50 cm (33rd pc). The neonatal period was uneventful. He was able to sit at 10 months of age and started to walk independently at 18 months. He pronounced the first words at 18 months but the language showed a very slow progression, as he was able to produce sentences of 2–3 words at the age of 11 years and 3 months. He also suffered from febrile seizures until 7 years of age. Neurological examination showed hand flapping triggered by excitement with sufficient social skills. The patient was also diagnosed with cryptorchidism requiring surgical correction. At 11 years of age, his weight was 20 Kg (20th pc), height 128.2 cm (first pc), and occipito‐frontal circumference (OFC) 54 cm (37th pc). He had sparse hair and a prominent nasal bridge. Brain MRI showed two hyperintense signals in the temporo‐mesial region. Brainstem auditory evoked potentials and visually evoked potential were normal. The heart ultrasound was normal.</p></sec><sec id="bdr22058-sec-0009"><label>3.3</label><title>Patient 3</title><p>The proband is the only son of unrelated healthy parents. Prenatal ultrasound detected possible shortness of lower limbs. He was born at term after a normal pregnancy. Birth weight was 2,550 g, length 44 cm, and OFC 33 cm. Apgar score was 8–10. During the neonatal period, he was diagnosed with hypotonia, physiological jaundice, and posterior left plagiocephaly. Brain and heart ultrasounds were normal. He had global psychomotor delay: walked independently at 2 years and pronounced his first words at 18 months. At the age of 3 years, he was diagnosed with celiac disease and eosinophilic esophagitis, successfully treated with a gluten‐free diet. Ocular investigation revealed hypermetropia and astigmatism. A skeletal X‐ray survey revealed scoliosis, decreased physiological curves, iliac crest asymmetry, and abnormalities of the right femoral head. Auditory brain response and EEG were normal. At the age of 5.5 years, he presented a single episode of febrile seizures with normal EEG. A follow‐up EEG during sleep at 6.6 years detected isolated anomalies in the left temporal area. Brain MRI at the age of 5 years was normal. Rhinolaringoscopic examination showed adenoidal hypertrophy and laryngeal marks of gastric reflux. At 6 years and 8 months, his weight was 27 Kg (75th pc), height 111 cm(third pc), OFC 51.5 cm (25–50th pc), arm‐span 108.5 cm, and upper segment/lower segment ratio 0.95. He had a high forehead, brachycephaly, hypertelorism, long and flat philtrum, thin upper lip, high and arched palate, retrognathia, clinodactyly of the fifth finger of hands, single palmar crease on the right hand, short fourth and fifth metacarpal bones, coxa vara, joint hyperlaxity, and mild hypotonia.</p></sec><sec id="bdr22058-sec-0010"><label>3.4</label><title>Patient 4</title><p>The proband is the first child of healthy non‐consanguineous parents with an unaffected son. Family history was unremarkable. The patient was born on the 40th week after an uneventful pregnancy. Birth weight was 3,220 g (25th pc), length 52 cm (85th pc), OFC 37 cm (97th pc). Apgar score was 9–10. Brain ultrasound was normal. Cardiac ultrasonography revealed a patent foramen ovale. Feeding difficulties, gastroesophageal reflux, dysphagia, and severe constipation occurred since the first months of life. Abdominal ultrasound showed mild bilateral hydronephrosis. At 8 months, a kidney stone with ureterocele was diagnosed and the patient underwent surgical intervention. Brain‐stem audiometry showed mild bilateral conductive deafness. Developmental milestones were delayed and neurological examination showed generalized hypotonia and atypical social skills, being very sociable and attached to other children and adults. He was also diagnosed with autism. The child suffered from sleep apnea, which dramatically improved after tonsillectomy and adenoidectomy were performed at 4 years of age. At 8 years of age, he started to suffer from partial seizures, which were treated with Carbamazepine. EEG showed: slow high‐voltage complexes in the temporal‐occipital regions in sleep, presence of spindles, and hints of K‐complexes. Brain MRI at 7 years revealed asymmetric lateral ventricles. Clinical evaluation revealed dolichocephaly, facial asymmetry, high forehead, synophrys, arched eyebrows, long eyelashes, ptosis on the left, upslanting palpebral fissures, short nose, anteverted nares, flat philtrum, thin upper lip, thick everted lower lip, small teeth, mild retrognathia, dysmorphic ears with anteverted up‐lifted lobes, anterior and posterior low hairline, telethelia, mild general hypertrichosis, thin toes, hallux valgus. Weight was 24 kg (10–25th pc), height 131 cm (50th pc), and OFC 55 cm (90–97th pc). X‐ray of the feet showed asymmetry of the ossification nucleus in the first toes with cone‐shaped epiphysis of proximal phalanx of the second and third toes.</p></sec><sec id="bdr22058-sec-0011"><label>3.5</label><title>Patient 5</title><p>The proband is the second child of healthy non‐consanguineous parents. His brother had a speech delay. The patient was born 36 weeks after a normal pregnancy. Birth weight was 3,020 g (77th pc), length 50 cm (88th pc), OFC 34.5 cm (84th pc). Apgar score was 9–10. Clinical examination at 9 years showed scalp aplasia cutis at the vertex, narrow palpebral fissures, arched upper lip, cup‐shaped ears, retroauricular hypertrichosis, strabismus, bilateral single palmar crease, wide‐set asymmetric and inverted nipples, flat feet. Developmental milestones were delayed (sitting at 13 months, walking alone at 3 years, first words at 2.5 years). Mild cognitive impairment was diagnosed in association with stereotypic movements, ataxic gait, and motor coordination problems. Brain MRI showed cystic‐like dilatation of the left retrocerebellar space. Ophthalmological examination revealed right eye strabismus. EEG, echocardiography, abdominal ultrasound, and brain‐stem audiometry were normal. At 9.3 years, his weight was 31 kg (75th pc), height 131 cm (25–50th pc), and OFC 53 cm (50th pc).</p></sec><sec id="bdr22058-sec-0012"><label>3.6</label><title>Genetic analysis</title><p>In family 1, ES led to the identification of the de novo variant c.2192dupT (p.Asp732Argfs*36) in <italic toggle="yes">AHDC1</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="NM_001029882.3">NM_001029882.3</ext-link>). This null variant is absent in GnomAD, is not reported in ClinVar, and is classified as likely pathogenic. In family 2 trio‐ES identified the de novo variant c.2188 G &gt; T (p.Glu730*). This nonsense variant is absent in gnomAD, HGMD, and ClinVar. It is predicted pathogenic based on in silico tools (BayesDel_addAF, DANN, EIGEN, FATHMM‐MKL, and MutationTaster). In Family 3, the de novo c.4289dup (p.Ala1432Glyfs*49) was identified. This frameshift variant is absent in gnomAD and it is classified pathogenic by in silico tools. In family 4, the de novo frameshift variant c.1446delC (p.Val483Tyrfs*16) was detected. This variant is absent in gnomAD and is predicted to introduce a premature stop codon. ClinVar classifies this variant as pathogenic and it is associated with XGS. In family 5, the de novo frameshift variant c.1102_1114del (p.Cys368Alafs*80) was identified. All variants are predicted to result in a premature protein termination or nonsense‐mediated mRNA decay (NMD), leading to loss of function, and have never been reported in the literature.</p></sec></sec><sec sec-type="discussion" id="bdr22058-sec-0013"><label>4</label><title>DISCUSSION</title><p>The AT‐hook DNA‐binding motif‐containing protein 1 has a predicted DNA binding domain and in vitro studies demonstrated that AHDC1 plays an important role in transcription and epigenetic regulation (Quintero‐Rivera et al., <xref rid="bdr22058-bib-0025" ref-type="bibr">2015</xref>; Xia et al., <xref rid="bdr22058-bib-0031" ref-type="bibr">2014</xref>). It also interacts with nuclear proteins and is implicated in axonogenesis (Chatr‐Aryamontri et al., <xref rid="bdr22058-bib-0004" ref-type="bibr">2017</xref>; Vandamme et al., <xref rid="bdr22058-bib-0029" ref-type="bibr">2011</xref>). The reported <italic toggle="yes">AHDC1</italic> variants involve codons 151–1,499 and likely act through a dominant‐negative mechanism, with most of them resulting in a truncated protein or NMD (ClinVar, <xref rid="bdr22058-bib-0006" ref-type="bibr">2021</xref>; Quintero‐Rivera et al., <xref rid="bdr22058-bib-0025" ref-type="bibr">2015</xref>). These variants affect AHDC1 function, altering its interaction with other proteins important for brain function and development, thus explaining the neurobehavioral manifestations observed in almost all cases (Yang et al., <xref rid="bdr22058-bib-0032" ref-type="bibr">2015</xref>). Of note, similar AHDC1 functional domains are present in REV3L, the catalytic subunit of the DNA polymerase zeta (Gan et al., <xref rid="bdr22058-bib-0012" ref-type="bibr">2008</xref>). This is a key protein involved in the replication of damaged DNA, genome stability, and DNA translesion repair (Gan et al., <xref rid="bdr22058-bib-0012" ref-type="bibr">2008</xref>). This finding leads to speculation that <italic toggle="yes">AHDC1</italic> variants may interfere with DNA repair processes.</p><p>The percentage of patients in whom a pathogenic variant in <italic toggle="yes">AHDC1</italic> is detected by sequence analysis is around 97–98%, whereas no data is available on the detection rate of gene‐targeted deletion/duplication analysis (Chander et al., <xref rid="bdr22058-bib-0003" ref-type="bibr">2021</xref>; Jiang et al., <xref rid="bdr22058-bib-0016" ref-type="bibr">2018</xref>; Khayat et al., <xref rid="bdr22058-bib-0018" ref-type="bibr">2021</xref>; Ritter et al., <xref rid="bdr22058-bib-0026" ref-type="bibr">2018</xref>). Large deletions of 1p36.11 including <italic toggle="yes">AHDC1</italic> associated with XGS‐overlapping features account instead for up to 2–3% of affected individuals. However, these rearrangements include adjacent genes which can independently contribute to neurodevelopmental phenotypes (Chander et al., <xref rid="bdr22058-bib-0003" ref-type="bibr">2021</xref>; Jiang et al., <xref rid="bdr22058-bib-0016" ref-type="bibr">2018</xref>; Park et al., <xref rid="bdr22058-bib-0023" ref-type="bibr">2017</xref>; Ritter et al., <xref rid="bdr22058-bib-0026" ref-type="bibr">2018</xref>; Wang et al., <xref rid="bdr22058-bib-0030" ref-type="bibr">2020</xref>).</p><p>XGS is characterized by highly variable phenotypes, but cognitive impairment, motor delay, language delay, neonatal hypotonia, and sleep apnoea are considered “cardinal” signs (Table <xref rid="bdr22058-tbl-0001" ref-type="table">1</xref>). Other common features include seizures, scoliosis, ataxia, autism, and strabismus (Khayat et al., <xref rid="bdr22058-bib-0018" ref-type="bibr">2021</xref>) (Figure <xref rid="bdr22058-fig-0001" ref-type="fig">1c</xref>). The complexity of this condition requires multidisciplinary medical evaluations. In addition to the core phenotypic signs, Khayat recently identified other minor clinical manifestations. Scoliosis, seizures with EEG abnormalities, altered brain MRI (He et al., <xref rid="bdr22058-bib-0015" ref-type="bibr">2020</xref>) and ocular problems/strabism were reported in at least two individuals although they were not shared by at least 80% of the reported individuals. These features have been classified as “secondary phenotypes” (Khayat et al., <xref rid="bdr22058-bib-0018" ref-type="bibr">2021</xref>).</p><table-wrap position="float" id="bdr22058-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Summary of the main clinical features in XGS patients</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Clinical feature</th><th align="left" valign="bottom" rowspan="1" colspan="1">Xia et al. (<xref rid="bdr22058-bib-0031" ref-type="bibr">2014</xref>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Yang et al. (<xref rid="bdr22058-bib-0032" ref-type="bibr">2015</xref>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Bosch et al. (<xref rid="bdr22058-bib-0001" ref-type="bibr">2016</xref>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Garcia‐Acero and Acosta (<xref rid="bdr22058-bib-0013" ref-type="bibr">2017</xref>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Jiang et al. (<xref rid="bdr22058-bib-0016" ref-type="bibr">2018</xref>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Ritter et al. (<xref rid="bdr22058-bib-0026" ref-type="bibr">2018</xref>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Gumus (<xref rid="bdr22058-bib-0014" ref-type="bibr">2020</xref>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Cardoso‐Dos‐Santos et al. (<xref rid="bdr22058-bib-0002" ref-type="bibr">2020</xref>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Khayat et al. (<xref rid="bdr22058-bib-0018" ref-type="bibr">2021</xref>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Ellis et al. (<xref rid="bdr22058-bib-0009" ref-type="bibr">2021</xref>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Total*</th><th align="left" valign="bottom" rowspan="1" colspan="1">P1</th><th align="left" valign="bottom" rowspan="1" colspan="1">P2</th><th align="left" valign="bottom" rowspan="1" colspan="1">P3</th><th align="left" valign="bottom" rowspan="1" colspan="1">P4</th><th align="left" valign="bottom" rowspan="1" colspan="1">P5</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Common features</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Intellectual disability</td><td align="left" valign="top" rowspan="1" colspan="1">4/4</td><td align="left" valign="top" rowspan="1" colspan="1">7/8</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">4/5</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">30/34</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">49/55</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Speech delay</td><td align="left" valign="top" rowspan="1" colspan="1">4/4</td><td align="left" valign="top" rowspan="1" colspan="1">7/8</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">5/5</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">32/34</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">53/55</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Motor delay</td><td align="left" valign="top" rowspan="1" colspan="1">4/4</td><td align="left" valign="top" rowspan="1" colspan="1">6/8</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">5/5</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">32/34</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">52/55</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hearing deficit</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">1/5</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">36/40</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Structural brain abnormality</td><td align="left" valign="top" rowspan="1" colspan="1">4/4</td><td align="left" valign="top" rowspan="1" colspan="1">6/8</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">12/20</td><td align="left" valign="top" rowspan="1" colspan="1">3/5</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">27/40</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ataxia</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">13/20</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">23/34</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">36/55</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sleep apnoea</td><td align="left" valign="top" rowspan="1" colspan="1">3/4</td><td align="left" valign="top" rowspan="1" colspan="1">2/8</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">9/20</td><td align="left" valign="top" rowspan="1" colspan="1">3/5</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">17/34</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">38/75</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Autism</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">5/20</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">10/34</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">16/55</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hypotonia at diagnosis</td><td align="left" valign="top" rowspan="1" colspan="1">4/4</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">18/20</td><td align="left" valign="top" rowspan="1" colspan="1">4/5</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">30/34</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">58/66</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Seizures</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">6/20</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">15/34</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">24/57</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Scoliosis</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">1/8</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">4/20</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">9/34</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">12/74</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Strabismus</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">3/8</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">8/20</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">14/34</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">25/74</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Short stature</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">2/8</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">17/34</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">19/50</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Uncommon features</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Laryngomalacia</td><td align="left" valign="top" rowspan="1" colspan="1">2/4</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">6/34</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">10/74</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Tracheomalacia</td><td align="left" valign="top" rowspan="1" colspan="1">1/4</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">3/34</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">4/46</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Osteo‐articular anomalies</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">3/8</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">4/5</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">1/10?</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">9/51</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hypothyroidism</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Aplasia cutis</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">1/5</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">+</td><td align="left" valign="top" rowspan="1" colspan="1">2/51</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">−</td><td align="left" valign="top" rowspan="1" colspan="1">+</td></tr></tbody></table><table-wrap-foot id="bdr22058-ntgp-0001"><fn id="bdr22058-note-0001"><p>Abbreviations: P, patient; NA, not available.</p></fn></table-wrap-foot></table-wrap><p>Additional rare or novel clinical features were observed in our cohort. Patient 1 lacked neonatal hypotonia and had unusual clinical manifestations, such as congenital hypothyroidism and unilateral hearing loss. The latter was also observed in patient 4 and has been previously described in a single patient with otitis media and cholesteatoma, carrying the c.4494dupG (p.C1499Vfs*89) variant (Ritter et al., <xref rid="bdr22058-bib-0026" ref-type="bibr">2018</xref>). Patient 2 also lacked neonatal hypotonia, specific neuroimaging abnormalities, and ataxia. However, he presented with seizures, which are reported in 34% of XGS patients (Della Vecchia et al., <xref rid="bdr22058-bib-0007" ref-type="bibr">2021</xref>). Atypical osteoarticular manifestations and scoliosis were observed in 4/5 of our patients: hammerfirst fingers in patient 1; joint laxity, reduction of physiological spinal curvatures, coxa vara and phalangeal abnormalities in patient 3; hallux valgus with cone‐shaped epiphysis of the proximal phalanx of toes in patient 4; flat feet in patient 5. Abnormal ophthalmologic findings were present in 3/5 subjects (patients 1, 4, and 5), consisting of strabismus. Gastrointestinal manifestations, such as feeding and chewing problems, constipation, and G‐tube feeding, have been reported in XGS (Chander et al., <xref rid="bdr22058-bib-0003" ref-type="bibr">2021</xref>; Gumus, <xref rid="bdr22058-bib-0014" ref-type="bibr">2020</xref>; Jiang et al., <xref rid="bdr22058-bib-0016" ref-type="bibr">2018</xref>; Ritter et al., <xref rid="bdr22058-bib-0026" ref-type="bibr">2018</xref>; Yang et al., <xref rid="bdr22058-bib-0032" ref-type="bibr">2015</xref>). In our cohort, they were present in 2/5 patients: celiac disease and eosinophilic esophagitis in patient 3; gastroesophageal reflux in patient 4. Even though there is increasing evidence of poor growth in XGS patients (Chander et al., <xref rid="bdr22058-bib-0003" ref-type="bibr">2021</xref>; Yang et al., <xref rid="bdr22058-bib-0032" ref-type="bibr">2015</xref>), this aspect was not present in our cohort. Also, no signs of structural airway abnormalities were observed in our patients, despite tracheomalacia or laryngomalacia being relevant manifestations in XGS (Chander et al., <xref rid="bdr22058-bib-0003" ref-type="bibr">2021</xref>). Interestingly, patient 5 presented with congenital aplasia cutis and had a first clinical diagnosis of Ear‐Scalp‐Nipple syndrome (Marneros et al., <xref rid="bdr22058-bib-0019" ref-type="bibr">2013</xref>), due to the association of aplasia cutis of the scalp with cup‐shaped ears, asymmetric nipples, and developmental delay. Aplasia cutis has been occasionally described in previous studies (Chander et al., <xref rid="bdr22058-bib-0003" ref-type="bibr">2021</xref>; Ellis et al., <xref rid="bdr22058-bib-0009" ref-type="bibr">2021</xref>; Murdock et al., <xref rid="bdr22058-bib-0022" ref-type="bibr">2019</xref>; Ritter et al., <xref rid="bdr22058-bib-0026" ref-type="bibr">2018</xref>) and could be considered as a rare specific marker for the syndrome.</p><p>Genotype–phenotype correlations in XGS remain elusive. It has been speculated that truncating pathogenic variants affecting residue closer to the N‐terminal may determine a milder clinical phenotype with better cognitive performances. This observation is supported by the results of 20 Modified Checklist for Autism in Toddlers (M‐CHAT) performed in children with XGS, which revealed that patients bearing variants closer to the C‐terminus of the protein (e.g., p.Ser1258*, p.Gln1270Argfs*75, and p.Ser1330*) are nonverbal and with high M‐CHAT scores (Jiang et al., <xref rid="bdr22058-bib-0016" ref-type="bibr">2018</xref>; Mubungu et al., <xref rid="bdr22058-bib-0021" ref-type="bibr">2020</xref>). Of note, a single patient carrying an early stop‐gain variant (p.Gln262*) was found to have a low M‐CHAT score and could produce sentences (Jiang et al., <xref rid="bdr22058-bib-0016" ref-type="bibr">2018</xref>; Mubungu et al., <xref rid="bdr22058-bib-0021" ref-type="bibr">2020</xref>). In a recent work by Khayat et al., truncating mutations closer to the N‐terminus were more likely associated with seizures or scoliosis (Khayat et al., <xref rid="bdr22058-bib-0018" ref-type="bibr">2021</xref>). However, phenotypic heterogeneity is not uncommon in individuals harboring the same variant, suggesting that clear‐cut genotype–phenotype correlations are difficult to establish (Jiang et al., <xref rid="bdr22058-bib-0016" ref-type="bibr">2018</xref>; Mubungu et al., <xref rid="bdr22058-bib-0021" ref-type="bibr">2020</xref>). In fact, two unrelated children carrying the c.2849del (p.Pro950Argfs*192) variant have been recently reported to show significantly different phenotypes (Faergeman et al., <xref rid="bdr22058-bib-0010" ref-type="bibr">2021</xref>). Most XGS patients harbor truncating <italic toggle="yes">AHDC1</italic> variants while likely pathogenic missense variants have been reported in ten individuals (Chander et al., <xref rid="bdr22058-bib-0003" ref-type="bibr">2021</xref>; Khayat et al., <xref rid="bdr22058-bib-0018" ref-type="bibr">2021</xref>). However, possible correlations between the type of the variant and the clinical phenotype remain unclear.</p><p>In conclusion, our study expands the molecular and phenotypic spectrum of XGS, highlighting the relevance of uncommon clinical manifestations, such as congenital hypothyroidism and skeletal abnormalities. These findings suggest that affected individuals may show a highly variable phenotype, supporting the importance of proper genetic counseling and multidisciplinary evaluation in the management of this syndrome. Although associations between certain variant types and clinical manifestations are plausible based on the available literature, definite genotype–phenotype correlations remain difficult to establish. The report of additional large cohorts will play a fundamental role in the identification of less elusive correlations.</p></sec><sec sec-type="COI-statement" id="bdr22058-sec-0015"><title>CONFLICT OF INTEREST</title><p>The authors declare no conflict of interest.</p></sec></body><back><ack id="bdr22058-sec-0014"><title>ACKNOWLEDGMENTS</title><p>We would like to thank the Telethon Undiagnosed Disease Program (TUDP) for the genetic analysis support and the families of the patients for their consent to participate in this study, this work was supported by the Italian Ministry of Health, Ricerca Corrente. One of the authors of this publication is a member of the European ReferenceNetwork on Rare Congenital Malformations and Rare Intellectual Disability ERN‐ITHACA [EUFramework Partnership Agreement ID: 3HP‐HP‐FPA ERN‐01‐2016/739516].</p></ack><sec sec-type="data-availability" id="bdr22058-sec-0017"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="bdr22058-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="bdr22058-bib-0001"><mixed-citation publication-type="journal" id="bdr22058-cit-0001">
+<string-name name-style="western">
+<surname>Bosch</surname>, <given-names>D. G. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boonstra</surname>, <given-names>F. N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Leeuw</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pfundt</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nillesen</surname>, <given-names>W. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Ligt</surname>, <given-names>J.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>de Vries</surname>, <given-names>B. B.</given-names>
+</string-name> (<year>2016</year>). <article-title>Novel genetic causes for cerebral visual impairment</article-title>. <source>European Journal of Human Genetics</source>, <volume>24</volume>(<issue>5</issue>), <fpage>660</fpage>–<lpage>665</lpage>. <pub-id pub-id-type="doi">10.1038/ejhg.2015.186</pub-id>
+<pub-id pub-id-type="pmid">26350515</pub-id><pub-id pub-id-type="pmcid">PMC4930090</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0002"><mixed-citation publication-type="journal" id="bdr22058-cit-0002">
+<string-name name-style="western">
+<surname>Cardoso‐Dos‐Santos</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oliveira Silva</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silveira Faccini</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Woycinck Kowalski</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bertoli‐Avella</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morales Saute</surname>, <given-names>J. A.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>de Oliveira Poswar</surname>, <given-names>F.</given-names>
+</string-name> (<year>2020</year>). <article-title>Novel AHDC1 gene mutation in a Brazilian individual: Implications of Xia‐Gibbs syndrome</article-title>. <source>Molecular Syndromology</source>, <volume>11</volume>(<issue>1</issue>), <fpage>24</fpage>–<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1159/000505843</pub-id>
+<pub-id pub-id-type="pmid">32256298</pub-id><pub-id pub-id-type="pmcid">PMC7109424</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0003"><mixed-citation publication-type="book" id="bdr22058-cit-0003">
+<string-name name-style="western">
+<surname>Chander</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wangler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gibbs</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Murdock</surname>, <given-names>D.</given-names>
+</string-name> (<year>2021</year>). <part-title>Xia‐Gibbssyndrome. 2021 Dec 9</part-title>. In <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>M. P.</given-names>
+<surname>Adam</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>H. H.</given-names>
+<surname>Ardinger</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Pagon</surname>
+</string-name>
+</person-group>, et al. (Eds.), <source>GeneReviews® [Internet]</source>. <publisher-loc>Seattle (WA)</publisher-loc>: <publisher-name>University of Washington, Seattle</publisher-name> 1993–2022.<pub-id pub-id-type="pmid">34902026</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0004"><mixed-citation publication-type="journal" id="bdr22058-cit-0004">
+<string-name name-style="western">
+<surname>Chatr‐Aryamontri</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oughtred</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boucher</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rust</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kolas</surname>, <given-names>N. K.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Tyers</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>The BioGRID interaction database: 2017 update</article-title>. <source>Nucleic Acids Research</source>, <volume>45</volume>(<issue>D1</issue>), <fpage>D369</fpage>–<lpage>D379</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkw1102</pub-id>
+<pub-id pub-id-type="pmid">27980099</pub-id><pub-id pub-id-type="pmcid">PMC5210573</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0005"><mixed-citation publication-type="journal" id="bdr22058-cit-0005">
+<string-name name-style="western">
+<surname>Cheng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fu</surname>, <given-names>Y.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Shen</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2019</year>). <article-title>Two Chinese Xia‐Gibbs syndrome patients with partial growth hormone deficiency</article-title>. <source>Molecular Genetics &amp; Genomic Medicine</source>, <volume>7</volume>, <elocation-id>e00596</elocation-id>.<pub-id pub-id-type="pmid">30729726</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/mgg3.596</pub-id><pub-id pub-id-type="pmcid">PMC6465669</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0006"><mixed-citation publication-type="miscellaneous" id="bdr22058-cit-0006">
+<collab collab-type="authors">ClinVar</collab>
+. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/clinvar/" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/clinvar/</ext-link>. Accessed January 19, <year>2021</year>.</mixed-citation></ref><ref id="bdr22058-bib-0007"><mixed-citation publication-type="journal" id="bdr22058-cit-0007">
+<string-name name-style="western">
+<surname>Della Vecchia</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Milone</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cagiano</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calderoni</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santocchi</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pasquariello</surname>, <given-names>R.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Muratori</surname>, <given-names>F.</given-names>
+</string-name> (<year>2021</year>). <article-title>Focusing on autism Spectrum disorder in Xia‐Gibbs syndrome: Description of a female with high functioning autism and literature review</article-title>. <source>Children (Basel)</source>, <volume>8</volume>(<issue>6</issue>), <elocation-id>450</elocation-id>. <pub-id pub-id-type="doi">10.3390/children8060450</pub-id> PMID: 34073322; PMCID: PMC8227570.<pub-id pub-id-type="pmid">34073322</pub-id><pub-id pub-id-type="pmcid">PMC8227570</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0008"><mixed-citation publication-type="journal" id="bdr22058-cit-0008">
+<string-name name-style="western">
+<surname>Díaz‐Ordoñez</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramirez‐Montaño</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Candelo</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cruz</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Pachajoa</surname>, <given-names>H.</given-names>
+</string-name> (<year>2019</year>). <article-title>Syndromic intellectual disability caused by a novel truncating variant in AHDC1: A case report</article-title>. <source>The Iranian Journal of Medical Sciences</source>, <volume>44</volume>, <fpage>257</fpage>–<lpage>261</lpage>.<pub-id pub-id-type="pmid">31182893</pub-id><pub-id pub-id-type="pmcid">PMC6525729</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0009"><mixed-citation publication-type="journal" id="bdr22058-cit-0009">
+<string-name name-style="western">
+<surname>Ellis</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pai</surname>, <given-names>G. S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Wine</surname>, <given-names>L. L.</given-names>
+</string-name> (<year>2021</year>). <article-title>Atypical aplasia cutis in association with Xia Gibbs syndrome</article-title>. <source>Pediatric Dermatology</source>, <volume>38</volume>(<issue>2</issue>), <fpage>533</fpage>–<lpage>535</lpage>. <pub-id pub-id-type="doi">10.1111/pde.14515</pub-id> Epub 2021 Jan 19. PMID: 33464633.<pub-id pub-id-type="pmid">33464633</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0010"><mixed-citation publication-type="journal" id="bdr22058-cit-0010">
+<string-name name-style="western">
+<surname>Faergeman</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bojesen</surname>, <given-names>A. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rasmussen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Becher</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andreasen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andersen</surname>, <given-names>B. N.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Gregersen</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Phenotypic heterogeneity and mosaicism in Xia‐Gibbs syndrome: Five Danish patients with novel variants in AHDC1</article-title>. <source>European Journal of Medical Genetics</source>, <volume>64</volume>(<issue>9</issue>), <elocation-id>104280</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.ejmg.2021.104280</pub-id> Epub 2021 Jul 3. PMID: 34229113.<pub-id pub-id-type="pmid">34229113</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0011"><mixed-citation publication-type="journal" id="bdr22058-cit-0011">
+<string-name name-style="western">
+<surname>Gajecka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mackay</surname>, <given-names>K. L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Shaffer</surname>, <given-names>L. G.</given-names>
+</string-name> (<year>2007</year>). <article-title>Monosomy 1p36 deletion syndrome</article-title>. <source>American Journal of Medical Genetics. Part C, Seminars in Medical Genetics</source>, <volume>145C</volume>, <fpage>346</fpage>–<lpage>356</lpage>.<pub-id pub-id-type="pmid">17918734</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ajmg.c.30154</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0012"><mixed-citation publication-type="journal" id="bdr22058-cit-0012">
+<string-name name-style="western">
+<surname>Gan</surname>, <given-names>G. N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wittschieben</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wittschieben</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Wood</surname>, <given-names>R. D.</given-names>
+</string-name> (<year>2008</year>). <article-title>DNA polymerase zeta (pol ) in higher eukaryotes</article-title>. <source>Cell Research</source>, <volume>18</volume>(<issue>1</issue>), <fpage>174</fpage>–<lpage>183</lpage>. <pub-id pub-id-type="doi">10.1038/cr.2007.117</pub-id>
+<pub-id pub-id-type="pmid">18157155</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0013"><mixed-citation publication-type="journal" id="bdr22058-cit-0013">
+<string-name name-style="western">
+<surname>García‐Acero</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Acosta</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Whole‐exome sequencing identifies a de novo AHDC1 mutation in a Colombian patient with Xia‐Gibbs syndrome</article-title>. <source>Molecular Syndromology</source>, <volume>8</volume>(<issue>6</issue>), <fpage>308</fpage>–<lpage>312</lpage>. <pub-id pub-id-type="doi">10.1159/000479357</pub-id>
+<pub-id pub-id-type="pmid">29230160</pub-id><pub-id pub-id-type="pmcid">PMC5701272</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0014"><mixed-citation publication-type="journal" id="bdr22058-cit-0014">
+<string-name name-style="western">
+<surname>Gumus</surname>, <given-names>E.</given-names>
+</string-name> (<year>2020</year>). <article-title>Extending the phenotype of Xia‐Gibbs syndrome in a two‐year‐old patient with craniosynostosis with a novel de novo AHDC1 missense mutation</article-title>. <source>European Journal of Medical Genetics</source>, <volume>63</volume>, <elocation-id>103637</elocation-id>.<pub-id pub-id-type="pmid">30858058</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejmg.2019.03.001</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0015"><mixed-citation publication-type="journal" id="bdr22058-cit-0015">
+<string-name name-style="western">
+<surname>He</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhen</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Li</surname>, <given-names>D. Z.</given-names>
+</string-name> (<year>2020</year>). <article-title>Recurrent hypoplasia of corpus callosum as a prenatal phenotype of Xia‐Gibbs syndrome caused by maternal germline mosaicism of an AHDC1 variant</article-title>. <source>European Journal of Obstetrics, Gynecology, and Reproductive Biology</source>, <volume>244</volume>, <fpage>208</fpage>–<lpage>210</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejogrb.2019.11.031</pub-id>
+<pub-id pub-id-type="pmid">31812316</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0016"><mixed-citation publication-type="journal" id="bdr22058-cit-0016">
+<string-name name-style="western">
+<surname>Jiang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wangler</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McGuire</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lupski</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Posey</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khayat</surname>, <given-names>M. M.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Gibbs</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2018</year>). <article-title>The phenotypic spectrum of Xia‐Gibbs syndrome</article-title>. <source>American Journal of Medical Genetics—Part A</source>, <volume>176</volume>(<issue>6</issue>), <fpage>1315</fpage>–<lpage>1326</lpage>. <pub-id pub-id-type="doi">10.1002/ajmg.a.38699</pub-id>
+<pub-id pub-id-type="pmid">29696776</pub-id><pub-id pub-id-type="pmcid">PMC6231716</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0017"><mixed-citation publication-type="journal" id="bdr22058-cit-0017">
+<string-name name-style="western">
+<surname>Karlson</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mørk</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holtlund</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laland</surname>, <given-names>S. G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Lund</surname>, <given-names>T.</given-names>
+</string-name> (<year>1989</year>). <article-title>The amino acid sequence of the chromosomal protein HMG‐Y, its relation to HMG‐I and possible domains for the preferential binding of the proteins to stretches of A‐T base pairs</article-title>. <source>Biochemical and Biophysical Research Communications</source>, <volume>158</volume>(<issue>3</issue>), <fpage>646</fpage>–<lpage>651</lpage>. <pub-id pub-id-type="doi">10.1016/0006-291X(89)92770-8</pub-id>
+<pub-id pub-id-type="pmid">2920035</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0018"><mixed-citation publication-type="journal" id="bdr22058-cit-0018">
+<string-name name-style="western">
+<surname>Khayat</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chander</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hansen</surname>, <given-names>A. W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Gibbs</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2021</year> May). <article-title>Phenotypic and protein localization heterogeneity associated with AHDC1 pathogenic protein‐truncating alleles in Xia‐Gibbs syndrome</article-title>. <source>Human Mutation</source>, <volume>42</volume>(<issue>5</issue>), <fpage>577</fpage>–<lpage>591</lpage>. <pub-id pub-id-type="doi">10.1002/humu.24190</pub-id> Epub 2021 Mar 6. PMID: 33644933; PMCID: PMC8115934.<pub-id pub-id-type="pmid">33644933</pub-id><pub-id pub-id-type="pmcid">PMC8115934</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0019"><mixed-citation publication-type="journal" id="bdr22058-cit-0019">
+<string-name name-style="western">
+<surname>Marneros</surname>, <given-names>A. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beck</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turner</surname>, <given-names>E. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McMillin</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Edwards</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Field</surname>, <given-names>M.</given-names>
+</string-name>, … University of Washington Center for Mendelian Genomics. (<year>2013</year>). <article-title>Mutations in KCTD1 cause scalp‐ear‐nipple syndrome</article-title>. <source>American Journal of Human Genetics</source>, <volume>92</volume>, <fpage>621</fpage>–<lpage>626</lpage>.<pub-id pub-id-type="pmid">23541344</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajhg.2013.03.002</pub-id><pub-id pub-id-type="pmcid">PMC3617379</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0020"><mixed-citation publication-type="journal" id="bdr22058-cit-0020">
+<string-name name-style="western">
+<surname>Miller</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Twigg</surname>, <given-names>S. R. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McGowan</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phipps</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fenwick</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>, <given-names>D.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Wilkie</surname>, <given-names>A. O.</given-names>
+</string-name> (<year>2017</year>). <article-title>Diagnostic value of exome and whole genome sequencing in craniosynostosis</article-title>. <source>Journal of Medical Genetics</source>, <volume>54</volume>(<issue>4</issue>), <fpage>260</fpage>–<lpage>268</lpage>. <pub-id pub-id-type="doi">10.1136/jmedgenet-2016-104215</pub-id>
+<pub-id pub-id-type="pmid">27884935</pub-id><pub-id pub-id-type="pmcid">PMC5366069</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0021"><mixed-citation publication-type="journal" id="bdr22058-cit-0021">
+<string-name name-style="western">
+<surname>Mubungu</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lukute</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Makay</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Songo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lukusa</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Devriendt</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Lumaka</surname>, <given-names>A.</given-names>
+</string-name> (<year>2020</year>). <article-title>Clinical presentation and evolution of Xia‐Gibbs syndrome due to p.Gly375ArgfsTer3 variant in a patient from DR Congo (Central Africa)</article-title>. <source>American Journal of Medical Genetics—Part A</source>, <volume>182</volume>, <fpage>1572</fpage>–<lpage>1575</lpage>. <pub-id pub-id-type="doi">10.1002/ajmg.a.62049</pub-id>
+<pub-id pub-id-type="pmid">32406590</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0022"><mixed-citation publication-type="journal" id="bdr22058-cit-0022">
+<string-name name-style="western">
+<surname>Murdock</surname>, <given-names>D. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wangler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khayat</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Juusola</surname>, <given-names>J.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Gibbs</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2019</year>). <article-title>Xia‐Gibbs syndrome in adulthood: A case report with insight into the natural history of the condition</article-title>. <source>Cold Spring Harbor Molecular Case Studies</source>, <volume>5</volume>(<issue>3</issue>), <elocation-id>a003608</elocation-id>. <pub-id pub-id-type="doi">10.1101/mcs.a003608</pub-id>
+<pub-id pub-id-type="pmid">30622101</pub-id><pub-id pub-id-type="pmcid">PMC6549549</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0023"><mixed-citation publication-type="journal" id="bdr22058-cit-0023">
+<string-name name-style="western">
+<surname>Park</surname>, <given-names>H. Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jang</surname>, <given-names>W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Jang</surname>, <given-names>D. H.</given-names>
+</string-name> (<year>2017</year>). <article-title>Phenotype of a patient with a 1p36.11‐p35.3 interstitial deletion encompassing the AHDC1</article-title>. <source>Annals of Laboratory Medicine</source>, <volume>37</volume>(<issue>6</issue>), <fpage>563</fpage>–<lpage>565</lpage>. <pub-id pub-id-type="doi">10.3343/alm.2017.37.6.563</pub-id>
+<pub-id pub-id-type="pmid">28841002</pub-id><pub-id pub-id-type="pmcid">PMC5587837</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0024"><mixed-citation publication-type="journal" id="bdr22058-cit-0024">
+<string-name name-style="western">
+<surname>Popp</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ekici</surname>, <given-names>A. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thiel</surname>, <given-names>C. T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoyer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wiesener</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kraus</surname>, <given-names>C.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Zweier</surname>, <given-names>C.</given-names>
+</string-name> (<year>2017</year>). <article-title>Exome Pool‐Seq in neurodevelopmental disorders</article-title>. <source>European Journal of Human Genetics</source>, <volume>25</volume>(<issue>12</issue>), <fpage>1364</fpage>–<lpage>1376</lpage>. <pub-id pub-id-type="doi">10.1038/s41431-017-0022-1</pub-id>
+<pub-id pub-id-type="pmid">29158550</pub-id><pub-id pub-id-type="pmcid">PMC5865117</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0025"><mixed-citation publication-type="journal" id="bdr22058-cit-0025">
+<string-name name-style="western">
+<surname>Quintero‐Rivera</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xi</surname>, <given-names>Q. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keppler‐Noreuil</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Higgins</surname>, <given-names>A. W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anchan</surname>, <given-names>R. M.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Maas</surname>, <given-names>R. L.</given-names>
+</string-name> (<year>2015</year>). <article-title>MATR3 disruption in human and mouse associated with bicuspid aortic valve, aortic coarctation and patent ductus arteriosus</article-title>. <source>Human Molecular Genetics</source>, <volume>24</volume>(<issue>8</issue>), <fpage>2375</fpage>–<lpage>2389</lpage>. <pub-id pub-id-type="doi">10.1093/hmg/ddv004</pub-id>
+<pub-id pub-id-type="pmid">25574029</pub-id><pub-id pub-id-type="pmcid">PMC4380077</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0026"><mixed-citation publication-type="journal" id="bdr22058-cit-0026">
+<string-name name-style="western">
+<surname>Ritter</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDougall</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Skraban</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Medne</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bedoukian</surname>, <given-names>E. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Asher</surname>, <given-names>S. B.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Izumi</surname>, <given-names>K.</given-names>
+</string-name> (<year>2018</year>). <article-title>Variable clinical manifestations of Xia‐Gibbs syndrome: Findings of consecutively identified cases at a single Children's hospital</article-title>. <source>American Journal of Medical Genetics Part A</source>, <volume>176</volume>(<issue>9</issue>), <fpage>1890</fpage>–<lpage>1896</lpage>. <pub-id pub-id-type="doi">10.1002/ajmg.a.40380</pub-id>
+<pub-id pub-id-type="pmid">30152016</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0028"><mixed-citation publication-type="journal" id="bdr22058-cit-0028">
+<string-name name-style="western">
+<surname>Tsurusaki</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okamoto</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ohashi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kosho</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Imai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hibi‐Ko</surname>, <given-names>Y.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Matsumoto</surname>, <given-names>N.</given-names>
+</string-name> (<year>2012</year>). <article-title>Mutations affecting components of the SWI/SNF complex cause coffin‐Siris syndrome</article-title>. <source>Nature Genetics</source>, <volume>44</volume>(<issue>4</issue>), <fpage>376</fpage>–<lpage>378</lpage>. <pub-id pub-id-type="doi">10.1038/ng.2219</pub-id>
+<pub-id pub-id-type="pmid">22426308</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0029"><mixed-citation publication-type="journal" id="bdr22058-cit-0029">
+<string-name name-style="western">
+<surname>Vandamme</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Völkel</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosnoblet</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Le Faou</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Angrand</surname>, <given-names>P. O.</given-names>
+</string-name> (<year>2011</year>). <article-title>Interaction proteomics analysis of polycomb proteins defines distinct PRC1 complexes in mammalian cells</article-title>. <source>Molecular &amp; Cellular Proteomics</source>, <volume>10</volume>(<issue>4</issue>), <elocation-id>M110.002642</elocation-id>. <pub-id pub-id-type="doi">10.1074/mcp.M110.002642</pub-id>
+<pub-id pub-id-type="pmcid">PMC3069339</pub-id><pub-id pub-id-type="pmid">21282530</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0030"><mixed-citation publication-type="journal" id="bdr22058-cit-0030">
+<string-name name-style="western">
+<surname>Wang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Yuan</surname>, <given-names>H.</given-names>
+</string-name> (<year>2020</year>). <article-title>Microdeletion and microduplication of 1p36.11p35.3 involving AHDC1 contribute to neurodevelopmental disorder</article-title>. <source>European Journal of Medical Genetics</source>, <volume>63</volume>, <fpage>103611</fpage>.<pub-id pub-id-type="pmid">30615951</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejmg.2019.01.001</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0031"><mixed-citation publication-type="journal" id="bdr22058-cit-0031">
+<string-name name-style="western">
+<surname>Xia</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bainbridge</surname>, <given-names>M. N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>, <given-names>T. Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wangler</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scheuerle</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zackai</surname>, <given-names>E. H.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Gibbs</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2014</year>). <article-title>De novo truncating mutations in AHDC1 in individuals with syndromic expressive language delay, hypotonia, and sleep apnea</article-title>. <source>American Journal of Human Genetics</source>, <volume>94</volume>(<issue>5</issue>), <fpage>784</fpage>–<lpage>789</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajhg.2014.04.006</pub-id>
+<pub-id pub-id-type="pmid">24791903</pub-id><pub-id pub-id-type="pmcid">PMC4067559</pub-id></mixed-citation></ref><ref id="bdr22058-bib-0032"><mixed-citation publication-type="journal" id="bdr22058-cit-0032">
+<string-name name-style="western">
+<surname>Yang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Douglas</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Monaghan</surname>, <given-names>K. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Retterer</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cho</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Escobar</surname>, <given-names>L. F.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Chung</surname>, <given-names>W. K.</given-names>
+</string-name> (<year>2015</year>). <article-title>De novo truncating variants in the AHDC1 gene encoding the AT‐hook DNA‐binding motif‐containing protein 1 are associated with intellectual disability and developmental delay</article-title>. <source>Molecular Case Studies</source>, <volume>1</volume>(<issue>1</issue>), <elocation-id>a000562</elocation-id>. <pub-id pub-id-type="doi">10.1101/mcs.a000562</pub-id>
+<pub-id pub-id-type="pmid">27148574</pub-id><pub-id pub-id-type="pmcid">PMC4850891</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

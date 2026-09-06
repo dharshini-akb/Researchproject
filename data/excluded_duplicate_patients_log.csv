@@ -1,0 +1,60 @@
+Patient_ID,Disease,Source,Reason
+Low2017,KBG Syndrome,Low2017,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_30 (28)",KBG Syndrome,Low_2016_30_28,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_31 (29)",KBG Syndrome,Low_2016_31_29,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_32 (30)",KBG Syndrome,Low_2016_32_30,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_33 (31)",KBG Syndrome,Low_2016_33_31,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_34 (32)",KBG Syndrome,Low_2016_34_32,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P10 (18)",KBG Syndrome,Low_2016_P10_18,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P11 (20)",KBG Syndrome,Low_2016_P11_20,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P12 (13)",KBG Syndrome,Low_2016_P12_13,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P13 (27)",KBG Syndrome,Low_2016_P13_27,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P14 (2)",KBG Syndrome,Low_2016_P14_2,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P15 (3)",KBG Syndrome,Low_2016_P15_3,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P16 (9)",KBG Syndrome,Low_2016_P16_9,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P17 (10)",KBG Syndrome,Low_2016_P17_10,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P18 (12)",KBG Syndrome,Low_2016_P18_12,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P1 (19)",KBG Syndrome,Low_2016_P1_19,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P20 (14)",KBG Syndrome,Low_2016_P20_14,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P21 (15)",KBG Syndrome,Low_2016_P21_15,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P22 (16)",KBG Syndrome,Low_2016_P22_16,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P23 (17)",KBG Syndrome,Low_2016_P23_17,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P24 (21)",KBG Syndrome,Low_2016_P24_21,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P26 (23)",KBG Syndrome,Low_2016_P26_23,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P27 (24)",KBG Syndrome,Low_2016_P27_24,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P28 (25)",KBG Syndrome,Low_2016_P28_25,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P29 (27)",KBG Syndrome,Low_2016_P29_27,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P2 (26)",KBG Syndrome,Low_2016_P2_26,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P3 (4)",KBG Syndrome,Low_2016_P3_4,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P4 (5)",KBG Syndrome,Low_2016_P4_5,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P5 (6)",KBG Syndrome,Low_2016_P5_6,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P6 (7)",KBG Syndrome,Low_2016_P6_7,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P7 (8)",KBG Syndrome,Low_2016_P7_8,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P8 (33)",KBG Syndrome,Low_2016_P8_33,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+"Low, 2016_P9 (1)",KBG Syndrome,Low_2016_P9_1,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P1,KBG Syndrome,Ockeloen2015_P1,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P10,KBG Syndrome,Ockeloen2015_P10,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P11,KBG Syndrome,Ockeloen2015_P11,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P12,KBG Syndrome,Ockeloen2015_P12,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P13,KBG Syndrome,Ockeloen2015_P13,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P14,KBG Syndrome,Ockeloen2015_P14,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P15,KBG Syndrome,Ockeloen2015_P15,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P16,KBG Syndrome,Ockeloen2015_P16,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P17,KBG Syndrome,Ockeloen2015_P17,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P18,KBG Syndrome,Ockeloen2015_P18,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P19,KBG Syndrome,Ockeloen2015_P19,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P2,KBG Syndrome,Ockeloen2015_P2,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P20,KBG Syndrome,Ockeloen2015_P20,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P3,KBG Syndrome,Ockeloen2015_P3,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P4,KBG Syndrome,Ockeloen2015_P4,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P5,KBG Syndrome,Ockeloen2015_P5,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P6,KBG Syndrome,Ockeloen2015_P6,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P7,KBG Syndrome,Ockeloen2015_P7,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P8,KBG Syndrome,Ockeloen2015_P8,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Ockeloen2015_P9,KBG Syndrome,Ockeloen2015_P9,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Walz2015_PA,KBG Syndrome,Walz2015_PA,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Walz2015_PB,KBG Syndrome,Walz2015_PB,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Walz2015_PC,KBG Syndrome,Walz2015_PC,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Walz2015_PD,KBG Syndrome,Walz2015_PD,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Walz2015_PE,KBG Syndrome,Walz2015_PE,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
+Walz2015_Pf,KBG Syndrome,Walz2015_Pf,Potential overlap with Low et al. 2016 (PMC5435101) cohort already in baseline dataset
