@@ -1,3 +1,14 @@
+---
+title: Rare Disease Prediction System
+emoji: 🧬
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.30.0
+app_file: main.py
+pinned: false
+---
+
 # Rare Disease Prediction System using Human Phenotype Ontology (HPO)
 
 An AI-powered web application and research framework designed to predict selected rare genetic diseases from patient phenotype symptom profiles.
